@@ -1,0 +1,59 @@
+'''Alfabets irā latgaļu''' vuordim aizraksteit 
+vajadzeigūs simbolu kūpa aba repertuars. Alfabets nūstota i simbolu saksteibu
+aba parādu, kurū var lītuot latgaļu vuordu alfabetiskam saparādam (vuordineicuos, 
+telefonu sarokstūs i tt).
+
+{| style="font-family:Arial Unicode MS; font-size:1.4em; border-color:#000000; border-width:1px; border-style:solid; border-collapse:collapse; background-color:#F8F8EF"
+| style="width:5em; text-align:center; padding: 3px;" | A a [a]
+| style="width:5em; text-align:center; padding: 3px;" | Ā ā [ā]
+| style="width:5em; text-align:center; padding: 3px;" | B b [be]
+| style="width:5em; text-align:center; padding: 3px;" | C c [ce]
+| style="width:5em; text-align:center; padding: 3px;" | Č č [če]
+| style="width:5em; text-align:center; padding: 3px;" | D d [de]
+| style="width:5em; text-align:center; padding: 3px;" | E e [e]
+|-
+| style="width:5em; text-align:center; padding: 3px;" | Ē ē [ē]
+| style="width:5em; text-align:center; padding: 3px;" | F f [ef]
+| style="width:5em; text-align:center; padding: 3px;" | G g [ge]
+| style="width:5em; text-align:center; padding: 3px;" | Ģ ģ [g'e]
+| style="width:5em; text-align:center; padding: 3px;" | H h [he]
+| style="width:5em; text-align:center; padding: 3px;" | I i [i]
+| style="width:5em; text-align:center; padding: 3px;" | Y y [y]
+|-
+| style="width:5em; text-align:center; padding: 3px;" | Ī ī [ī]
+| style="width:5em; text-align:center; padding: 3px;" | J j [je]
+| style="width:5em; text-align:center; padding: 3px;" | K k [ka]
+| style="width:5em; text-align:center; padding: 3px;" | Ķ ķ [k'e]
+| style="width:5em; text-align:center; padding: 3px;" | L l [el]
+| style="width:5em; text-align:center; padding: 3px;" | Ļ ļ [eļ]
+| style="width:5em; text-align:center; padding: 3px;" | M m [em]
+|-
+| style="width:5em; text-align:center; padding: 3px;" | N n [en]
+| style="width:5em; text-align:center; padding: 3px;" | Ņ ņ [eņ]
+| style="width:5em; text-align:center; padding: 3px;" | O o [o]
+| style="width:5em; text-align:center; padding: 3px;" | &#x014C; &#x014D; [&#x014D;]
+| style="width:5em; text-align:center; padding: 3px;" | P p [pe]
+| style="width:5em; text-align:center; padding: 3px;" | R r [er]
+| style="width:5em; text-align:center; padding: 3px;" | S s [es]
+|-
+| style="width:5em; text-align:center; padding: 3px;" | Š š [eš]
+| style="width:5em; text-align:center; padding: 3px;" | T t [te]
+| style="width:5em; text-align:center; padding: 3px;" | U u [u]
+| style="width:5em; text-align:center; padding: 3px;" | Ū ū [ū]
+| style="width:5em; text-align:center; padding: 3px;" | V v [ve]
+| style="width:5em; text-align:center; padding: 3px;" | Z z [ze]
+| style="width:5em; text-align:center; padding: 3px;" | Ž ž [že]
+|}
+Liters "Y" alfabetā īt iz reizis aiz burta "I", leidzeigi kai lītaunīku volūdys alfabetā. Literu '''&#x014C;''' i '''&#x014D;''' navīgli dabuot nu standarta latvīšu klaviaturys; HTMLa i Vikipedejis dokumentūs var raksteit jūs Unikoda numerus itai: 
+
+&amp;#x014C; i &amp;#x014D;
+
+Literi '''&#x014C;''' i '''&#x014D;''' cieški vajadzeigi Pītera Stroda ortografejā i myuslaiku katuoļu tekstūs, a jaunajā ortografejā jūs lītuoj rešuok. Ap '''&#x014C;''' i '''&#x014D;''' pareizu lītuošonu vēļ nūteik streidi.
+
+== Resursi ==
+* [http://www.genling.nw.ru/baltist/Publicat/LatgVol1.pdf Latgaļu volūdys gramatika]
+* [[:lv:Latvie%C5%A1u_valoda#Alfab.C4.93ts|Latvīšu alfabets]]
+* [[:lt:Lietuvi%C5%B3_kalba#Ab.C4.97c.C4.97l.C4.97|Lītaunīku alfabets]]
+* [[:bat-smg:%C5%BDemaitiu_ab%C4%97c%C4%97l%C4%97|Žemaišu alfabets]]
+
+[[Category:Wp/ltg]]
