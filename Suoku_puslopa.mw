@@ -1,292 +1,116 @@
-==This subdomain is reserved for the creation of a [[wikimedia:Our projects|Wikipedia]] in '''[[w:en:Latgaļu|Latgaļu]]''' language==
+{| id="mp-topbanner" style="width:100%; background:#F2F5FD; padding:4px; font-size:100%; margin-top:0.5em; border:1px solid #C7D0F8; -moz-border-radius:10px"
+| width=60% align="center" valign="middle" | 
+<span style="font-size:200%; line-height:1.3; margin-left:5px">Vasali [[Vikipedeja|Vikipedejā]],</span>
 
-* Please '''do not start editing''' this new site. This site has a test project on the [[incubator:|Wikimedia Incubator]] (or on the [[betawikiversity:|BetaWikiversity]] or on the [[oldwikisource:|Old Wikisource]]) and it will be imported to here.
+<span style="font-size:130%; line-height:1.3; margin-left:5px">breivajā eņciklopedejā latgaļu volūdā!</span>
 
-* If you would like to help translating the interface to this language, please do not translate here, but go to [[translatewiki:|translatewiki]], a special wiki for translating the interface. That way everyone can use it on every wiki using the [[mw:|same software]].
+Niule latgaļu volūdā: '''{{NUMBEROFARTICLES}}''' {{plural:{{NUMBEROFARTICLES}}|rakstīņs|rakstīni|rakstīni}}
+|width=30% align="right" valign="top"|
+{| class="toccolours" style="width:400px; align="left"; margin: 0.05em 0;"
+|valign="top" |<small>
+* [[Vikipedeja:Kai registrētīs|Registrētīs]]
+* [[Vikipedeja:Smiļkšu skreine|Smiļkšu skreine]]
+* [[Vikipedeja:Aizsuokt jaunu rakstīni|Aizsuokt jaunu rakstīni]]
+* [[Vikipedeja:Rakstīņa papiļdeišona|Rakstīņa papiļdeišona]]</small>
+|valign="top" |<small>
+* [[Vikipedeja:Dūmu meits|Dūmu meits]]
+* [[Vikipedeja:Projekts:Latgaļu atmūda|Projekts]]
+* [[Vikipedeja:Rakstīņa mekliešona|Rakstīņa mekliešona]]
+* [[Vikipedeja:Vikipedejis termini|Vikipedejis termini]]</small>
+|}
+|width=10%|  
+|}
 
-* For information about how to edit and for other general help, see [[m:Help:Contents|Help on Wikimedia's Meta-Wiki]] or [[mw:Help:Contents|Help on MediaWiki.org]].
+{| style="border-spacing:8px;margin:0px -8px"
+|class="MainPageBG" style="width: 60%; border: 1px solid #cedff2; background-color: #ffffff; vertical-align: top;  -moz-border-radius:10px" | 
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#ffffff;  -moz-border-radius:10px"
+<!--------------------------------
+Vierteigs rakstīņs
+---------------------------------->
+! style="background-color: #cedff2; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #B1CDEB; text-align: left;  padding-left: 7px; padding-right: 3px; -moz-border-radius:10px" | <div style="float:left;">[[File:Star Ouro 8bits.png]] Vierteigs rakstīņs</div><div style="float:right;">[[File:Wbar blue.jpg]]</div>
+|-
+| style="; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%" | {{Vierteigs rakstīņs}}
+|-
+<!--------------------------------
+Mieneša aizdavums
+---------------------------------->
+! style="background-color: #F0F3CD; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #DDDDA4; text-align: left;  padding-left: 7px; padding-right: 3px; -moz-border-radius:10px" | <div style="float:left;">[[File:Disambigua compass.svg|20px]] Mieneša aizdavums</div><div style="float:right;">[[File:Wbar green3.jpg]]</div>
+|-
+| style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%" | {{Mieneša aizdavums}}
+|-
+<!--------------------------------
+Sastoti jaunu puslopu latgaliskai
+---------------------------------->
+! style="background-color: #DCF4CC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #9EE072; text-align: left; padding-left: 7px; padding-right: 3px; -moz-border-radius:10px" | <div style="float:left;">[[File:Evolution-tasks-old.svg|20px]] Sastoti jaunu puslopu latgaliskai</div><div style="float:right;">[[File:Wbar green2.jpg]]</div>
+|-
+| style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%" | 
+<inputbox>
+ type        = create
+ width       = 90%
+ bgcolor     = #ffffff
+ preload     = Template:Standard content for new page
+ editintro   = Template:Instructions
+ default     = 
+ buttonlabel = Sastateit rakstīni
+</inputbox>
+|}
+|class="MainPageBG" style="border:1px solid #cedff2; background-color:#ffffff; vertical-align:top; -moz-border-radius:10px"|
+{| width="100%" cellpadding="2" cellspacing="3" style="vertical-align: top; background-color:#ffffff; -moz-border-radius:10px;"
+|-
+<!--------------------------------
+Izalaseits atvaigs
+---------------------------------->
+! style="background-color: #F7CADA; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #EF98B7; text-align: left;  padding-left: 7px; padding-right: 3px; -moz-border-radius:10px" | <div style="float:left;">[[File:Nuvola filesystems camera.png|20px]] Izalaseits atvaigs</div><div style="float:right;">[[File:Wbar pink.jpg]]</div>
+|- align="center" style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%"
+| [[File:Daugavas loki.jpg|300px]]
+<small>Daugovys lūku dobys parks</small>
+|-
+<!--------------------------------
+Kategorejis
+---------------------------------->
+! style="background-color: #CEF2E8; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #8BE0C9; text-align: left;  padding-left: 7px; padding-right: 3px; -moz-border-radius:10px" | <div style="float:left;">[[File:Portal.svg|20px]] Kategorejis</div><div style="float:right;">[[File:wbar green1.jpg]]</div>
+|-
+| style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%" | 
+* [[:Category:Geografeja|Geografeja]]
+* [[:Category:Latgolys mīsti|Latgolys mīsti]]
+* [[:Category:Latgolys doba|Latgolys doba]]
+* [[:Category:Dzeivinīki|Dzeivinīki]]
+* [[:Category:Zeimeigi Latgolys ļauds|Zeimeigi Latgolys ļauds]]
+* [[:Category:Religeja Latgolā|Religeja Latgolā]]
+|}
+|}
+<!--------------------------------
+Cyti projekti
+---------------------------------->
+{| style="width:100%; border-spacing:8px; margin:0px -8px width:60%; border:1px solid #CEDFF2; background-color:#FFFFFF; vertical-align:top; -moz-border-radius:10px"
+! style="background-color: #CEF2E8; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #8BE0C9; text-align: left;  padding-left: 7px; padding-right: 4px; -moz-border-radius:10px" | <div style="float:left;">[[File:Nuvola apps kfig.svg|20 px]] Cyti projekti</div><div style="float:right;">[[File:wbar green1.jpg]]</div>
+|-
+| {{Radnesteigi projekti}}
+|-
+<!--------------------------------
+Baltu volūdu Vikipedejis
+---------------------------------->
+! style="background-color: #F2F5FD; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #C7D0F8; text-align: left;  padding-left: 7px; padding-right: 4px; -moz-border-radius:10px" | <div style="float:left;">[[File:Wikipedia-logo.png|20px]] Baltu volūdu Vikipedejis</div><div style="float:right;">[[File:Wbar transp.gif]]</div>
+|-
+| {{Vikipedeja cytuos volūduos}}
+|-
+|align=center| '''[[m:Complete list of language Wikipedias available|Vysys volūdys]]''' &ndash; '''[[w:Wikipedia:Multilingual coordination|Volūdu sadarynuošona]]'''
+|}
+<!-- Please, don't edit lines above -->
+__NOTOC__ __NOEDITSECTION__
 
-== Sister projects ==
-<span class="plainlinks">
-[http://www.wikipedia.org Wikipedia] |
-[http://www.wiktionary.org Wiktonary] |
-[http://www.wikibooks.org Wikibooks] |
-[http://www.wikinews.org Wikinews] |
-[http://www.wikiquote.org Wikiquote] |
-[http://www.wikisource.org Wikisource]
-[http://www.wikiversity.org Wikiversity]
-</span>
+[[Category:Wp/ltg| ]]
 
-See Wikimedia's [[m:|Meta-Wiki]] for the coordination of these projects.
-
-[[aa:]]
-[[ab:]]
-[[ace:]]
-[[af:]]
-[[ak:]]
-[[als:]]
-[[am:]]
-[[an:]]
-[[ang:]]
-[[ar:]]
-[[arc:]]
-[[arz:]]
-[[as:]]
-[[ast:]]
-[[av:]]
-[[ay:]]
-[[az:]]
-[[ba:]]
-[[bar:]]
-[[bat-smg:]]
-[[bcl:]]
-[[be:]]
-[[be-x-old:]]
-[[bg:]]
-[[bh:]]
-[[bi:]]
-[[bm:]]
-[[bn:]]
-[[bo:]]
-[[bpy:]]
-[[br:]]
-[[bs:]]
-[[bug:]]
-[[bxr:]]
-[[ca:]]
-[[cbk-zam:]]
-[[cdo:]]
-[[ce:]]
-[[ceb:]]
-[[ch:]]
-[[cho:]]
-[[chr:]]
-[[chy:]]
-[[ckb:]]
-[[co:]]
-[[cr:]]
-[[crh:]]
-[[cs:]]
-[[csb:]]
-[[cu:]]
-[[cv:]]
-[[cy:]]
-[[da:]]
-[[de:]]
-[[diq:]]
-[[dk:]]
-[[dsb:]]
-[[dv:]]
-[[dz:]]
-[[ee:]]
-[[el:]]
-[[eml:]]
-[[en:]]
-[[eo:]]
-[[es:]]
-[[et:]]
-[[eu:]]
-[[ext:]]
-[[fa:]]
-[[ff:]]
-[[fi:]]
-[[fiu-vro:]]
-[[fj:]]
-[[fo:]]
-[[fr:]]
-[[frp:]]
-[[fur:]]
-[[fy:]]
-[[ga:]]
-[[gan:]]
-[[gd:]]
-[[gl:]]
-[[glk:]]
-[[gn:]]
-[[got:]]
-[[gu:]]
-[[gv:]]
-[[ha:]]
-[[hak:]]
-[[haw:]]
-[[he:]]
-[[hi:]]
-[[hif:]]
-[[ho:]]
-[[hr:]]
-[[hsb:]]
-[[ht:]]
-[[hu:]]
-[[hy:]]
-[[hz:]]
-[[ia:]]
-[[id:]]
-[[ie:]]
-[[ig:]]
-[[ii:]]
-[[ik:]]
-[[ilo:]]
-[[io:]]
-[[is:]]
-[[it:]]
-[[iu:]]
-[[ja:]]
-[[jbo:]]
-[[jv:]]
-[[ka:]]
-[[kaa:]]
-[[kab:]]
-[[kg:]]
-[[ki:]]
-[[kj:]]
-[[kk:]]
-[[kl:]]
-[[km:]]
-[[kn:]]
-[[ko:]]
-[[kr:]]
-[[ks:]]
-[[ksh:]]
-[[ku:]]
-[[kv:]]
-[[kw:]]
-[[ky:]]
-[[la:]]
-[[lad:]]
-[[lb:]]
-[[lbe:]]
-[[lg:]]
-[[li:]]
-[[lij:]]
-[[lmo:]]
-[[ln:]]
-[[lo:]]
-[[lt:]]
-[[lv:]]
-[[map-bms:]]
-[[mdf:]]
-[[mg:]]
-[[mh:]]
-[[mhr:]]
-[[mi:]]
-[[mk:]]
-[[ml:]]
-[[mn:]]
-[[mo:]]
-[[mr:]]
-[[ms:]]
-[[mt:]]
-[[mus:]]
-[[mwl:]]
-[[my:]]
-[[myv:]]
-[[mzn:]]
-[[na:]]
-[[nan:]]
-[[nap:]]
-[[nds:]]
-[[nds-nl:]]
-[[ne:]]
-[[new:]]
-[[ng:]]
-[[nl:]]
-[[nn:]]
-[[no:]]
-[[nov:]]
-[[nrm:]]
-[[nv:]]
-[[ny:]]
-[[oc:]]
-[[om:]]
-[[or:]]
-[[os:]]
-[[pa:]]
-[[pag:]]
-[[pam:]]
-[[pap:]]
-[[pdc:]]
-[[pi:]]
-[[pih:]]
-[[pl:]]
-[[pms:]]
-[[pnt:]]
-[[pnb:]]
-[[ps:]]
-[[pt:]]
-[[qu:]]
-[[rm:]]
-[[rmy:]]
-[[rn:]]
-[[ro:]]
-[[roa-rup:]]
-[[roa-tara:]]
-[[ru:]]
-[[rw:]]
-[[sa:]]
-[[sah:]]
-[[sc:]]
-[[scn:]]
-[[sco:]]
-[[sd:]]
-[[se:]]
-[[sg:]]
-[[sh:]]
-[[si:]]
-[[simple:]]
-[[sk:]]
-[[sl:]]
-[[sm:]]
-[[sn:]]
-[[so:]]
-[[sq:]]
-[[sr:]]
-[[srn:]]
-[[ss:]]
-[[st:]]
-[[stq:]]
-[[su:]]
-[[sv:]]
-[[sw:]]
-[[szl:]]
-[[ta:]]
-[[te:]]
-[[tet:]]
-[[tg:]]
-[[th:]]
-[[ti:]]
-[[tk:]]
-[[tl:]]
-[[tn:]]
-[[to:]]
-[[tpi:]]
-[[tr:]]
-[[ts:]]
-[[tt:]]
-[[tum:]]
-[[tw:]]
-[[ty:]]
-[[udm:]]
-[[ug:]]
-[[uk:]]
-[[ur:]]
-[[uz:]]
-[[ve:]]
-[[vec:]]
-[[vi:]]
-[[vls:]]
-[[vo:]]
-[[wa:]]
-[[war:]]
-[[wo:]]
-[[wuu:]]
-[[xal:]]
-[[xh:]]
-[[yi:]]
-[[yo:]]
-[[za:]]
-[[zea:]]
-[[zh:]]
-[[zh-classical:]]
-[[zh-min-nan:]]
-[[zh-yue:]]
-[[zu:]]
+[[lv:Sākumlapa]]
+[[lt:Pagrindinis puslapis]]
+[[bat-smg:Pėrms poslapis]]
+[[en:Main Page]]
+[[de:Wikipedia:Hauptseite]]
+[[fr:Wikipédia:Accueil principal]]
+[[pl:Strona główna]]
+[[it:Pagina principale]]
+[[ja:メインページ]]
+[[es:Wikipedia:Portada]]
+[[nl:Hoofdpagina]]
+[[pt:Página principal]]
+[[ru:Заглавная страница]]
