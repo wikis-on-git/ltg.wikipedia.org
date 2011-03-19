@@ -1,0 +1,35 @@
+'''Datu puorlaidis protokols''' (anglīšu: ''protocol, data transmission protocol''; krīvu: ''протокол передачи данных''; latvīšu: ''protokols; datu pārraides protokols'') — diveju ītaišu sovā vydā dasarunuoti nūsacejumi ap tū, kaidam vajag byut puorlaižamūs datu formatam.
+
+Kab nūtyktu datu puorlaide iz vyds sevkuru diveju ītaišu, jom pyrma tuo sovā vydā vajag dasarunuot ap protokolu.
+
+Ītaisis, kurys dasarunoj ap protokolu, var byut, pīvadumam:
+* dators i drukaunīks;
+* dators i dators;
+* dators i servers;
+* dators i maršrutātivs 
+i leidz.
+
+Datu puorlaidis protokols nūstota:
+* kaidu klaidu puorvēris atmeju ītaisis lītuos i voi vysā lītuos (pīv., puorvēris skaitlis, kura juo atmeja/kaida formula);
+* kaidu datu samīgšonys metodu lītuos i voi vysā lītuos (pīv., "zip" lelim failim puorsyuteit caur iņternetu, LAN voi WAN);
+* kai syuteituoja ītaise paviesteis, ka beiguse zinis syuteišonu (in a zynuošonuos davodā (Communications port) lītuos pagluobis kanalu, serejeigaji (USB) puorlaidei lītuos suoku i nūstuošonys skaitus);
+* kai dabuojieja ītaise paviesteis, ka dabuojuse zinis;
+* datu puorlaidis dreizums (bodūs voi bitūs);
+* ci puorlaide byus sihroniska, ci asinhroniska;
+i leidz.
+
+Protokolā taipoš var byut paradzāti pruoteigi pajiemīni datu puorlaidis klaidom aptikt i pareizajim datim atjaunynuot, taipoš pajiemīni datim šifrēt i atšifrēt.
+
+[[Category:Wp/ltg]]
+
+[[bg:Протокол (комуникации)]]
+[[cs:Protokol (informatika)]]
+[[de:Protokoll (Informatik)]]
+[[en:Protocol (computing)]]
+[[es:Protocolo (informática)]]
+[[fa:قرارداد (رایانه)]]
+[[fr:Protocole réseau]]
+[[it:Protocollo (informatica)]]
+[[ka:ქსელური პროტოკოლი]]
+[[nl:Netwerkprotocol]]
+[[ru:Протокол передачи данных]]
