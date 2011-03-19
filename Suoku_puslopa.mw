@@ -4,7 +4,7 @@
 
 <span style="font-size:130%; line-height:1.3; margin-left:5px">breivajā eņciklopedejā latgaļu volūdā!</span>
 
-Niule latgaļu volūdā: '''{{NUMBEROFARTICLES}}''' {{plural:{{NUMBEROFARTICLES}}|rakstīņs|rakstīni|rakstīni}}
+Niule latgaļu volūdā: [[Special:Statistics|'''{{NUMBEROFARTICLES}}''']] {{plural:{{NUMBEROFARTICLES}}|rakstīņs|rakstīni|rakstīni}}
 |width=30% align="right" valign="top"|
 {| class="toccolours" style="width:400px; align="left"; margin: 0.05em 0;"
 |valign="top" |<small>
@@ -95,11 +95,7 @@ Baltu volūdu Vikipedejis
 | {{Vikipedeja cytuos volūduos}}
 |-
 |align=center| '''[[m:Complete list of language Wikipedias available|Vysys volūdys]]''' &ndash; '''[[w:Wikipedia:Multilingual coordination|Volūdu sadarynuošona]]'''
-|}
-<!-- Please, don't edit lines above -->
-__NOTOC__ __NOEDITSECTION__
-
-[[Category:Wp/ltg| ]]
+|}__NOTOC__ __NOEDITSECTION__
 
 [[lv:Sākumlapa]]
 [[lt:Pagrindinis puslapis]]
