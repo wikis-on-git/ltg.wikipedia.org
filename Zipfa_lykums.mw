@@ -1,0 +1,62 @@
+Sovā suoku versejā '''Zipfa lykums''' soka, ka dabeigys cylvāka volūdys tekstu korpusā, vuorda relativais bīžums ir apgrīzti proporcionals juo kuortas numuram vuordu bīžuma sarokstā. Pīmāram, vysbīžuok lītuotais vuords tekstūs pasaruodēs divtik bīži nakai ūtrais bīžuokais, a ūtrais bīžuokais pasaruoda divtik bīži nakai caturtais, i.t.t. Myusu dīnuos tū sapratīni lītoj kab apzeimuotu vasalu saimi ar varbyuteibu sadalejumim. Itū empiriskuo lykumu pyrmū reizi lika prīškā Harvarda lingvists Zipfs ([[:en:George Kingsley Zipf|Zipf]]).
+
+Pīvadumam, [[:en:Brown Corpus|Brauna korpusā]] ar anglīšu tekstim, "the" ir bīžuok aptiktais vuords, i jis vīns pats sastata 7% nu vysim vuordim tymūs tekstūs (69971 "the" eksemplari iz drupeit vairuok nakai 1 miļjona vuordu kūpskaita). Lobi atbiļst Zipf'a lykumam ūtrys bīžuokais vuords "of", kurs sastata 3.5% nu vysu korpusa vuordu (36411 eksemplari), a tuoļuok īt "and" (28852). Vīn 135 bīžuokī vuordi jau ir vairuok nakai puse nu vysim Brauna korpusā atrūnamajim vuordim. Zipfa lykums ir ceisti empirisks a na teoretisks. Zipfa sadalejumus nūvāroj i puors cytuos vītuos. Cālūni tam nava vēļ piļneigi saprasti. 
+
+Kab pamateitu skaitļu aiļa atbiļsteibu Zipf'a lykumam, tū attāloj uz 2 koordinatom log(kuortas numurs) i log(bīžums). Pīmāram, "the" vāg atlikt kai punkteņu koordinātuos x = log(1), y = log(69971). Ka tī punkteni ir tiuli kluot vīnai taisnei, tod sadalejums atbiļst Zipfa lykumam. Biļdeitis ar tū varit apsaviert ituo rokstīņa anglīšu versejā. 
+
+== Latgaļu tekstu korpusi ==
+Latgaļu tekstu elektroniska apstruode vēļ dora vīn pyrmūs sūļus. Bet ari ite byutu svareigi zynuot bīžuok lītojamūs vuordus; zynuot cik lela dale nu tekstu korpusa ir tai puorkluota. Ka kurs zyn, kur aptikt taidus latgaļu tekstu korpusus (vālams tymā pošā pareizraksteibā) dūdit zini.
+
+Varbyut tys sadalejums juosauc par ''Cipfa'' (na ''Zipfa'') sadalejumu, kai tys dareits krīvu volūdā? Pavuorde varātu byut vuocu, a jis dzeivova Amerikā ir juo vuords byutu skaitoms angliski.
+
+== Programys pīmārs ==
+
+Lyuk Javys programa, kas vīnam argumentam izvoda tabeleiti ar Zipfa sadalejumu n lelumu vydā:
+
+  public class Zipf {
+    public static void main(String[] args) {
+      if (args < 1) {
+        System.err.println("Lītojums: java Zipf <n>");
+        System.exit(0);
+      }
+      // komandys aiļa parametrys - vasals pozitivs skaitlys:
+      int n = Integer.parseInt(args[0]);
+      double total = 0.0;
+      for (int i = 0; i < 19; i++) {
+        total += 1.0/(i+1);
+      }
+      for (int i = 0; i < 19; i++) {
+        System.out.printf("%d.lelums: %2.2f\n", (i+1),(100.0/((i+1)*total)));
+      }
+    }
+  }
+
+Pīmārs juos izsaukumam deļ n=10:
+
+  c:\temp>'''javac Zipf.java'''
+  c:\temp>'''java Zipf 10'''
+  1.lelums: 34.14
+  2.lelums: 17.07
+  3.lelums: 11.38
+  4.lelums: 8.54
+  5.lelums: 6.83
+  6.lelums: 5.69
+  7.lelums: 4.88
+  8.lelums: 4.27
+  9.lelums: 3.79
+  10.lelums: 3.41
+
+Zipfa sadalijums bīži īsastuoj ari tierga sadalejumā konkurentu vydā. Pīmāram, ka ir 10 maizis ryupnīcys, tod leluokai bīži byus 34% dale maizis tiergā, ūtrai leluokai - 17% (divreiz mozuok), i.t.t.
+
+[[Category:Wp/ltg]]
+
+[[de:Zipfsches Gesetz]]
+[[eo:Leĝo de Zipf]]
+[[fr:Loi de Zipf]]
+[[it:Legge di Zipf]]
+[[nl:Zipfdistributie]]
+[[ja:ジップの法則]]
+[[pl:Prawo Zipfa]]
+[[ru:Закон Ципфа]]
+[[sl:Zipfov zakon]]
+[[fi:Zipfin laki]]
