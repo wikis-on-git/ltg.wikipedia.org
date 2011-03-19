@@ -1,0 +1,134 @@
+'''Datorzineibys termini''' — dūti kai anglīšu terminu alfabetiskys saparāds; nazcik latgaļu vuordim dūtys i definicejis - ira nūruodis iz rakstīnim. Datorzineibys terminu sarokstā sevkurs viersvuords suocās ar tabeleiti, kuramā jis puorvārsts anglīšu, latvīšu, latgaļu i lītaunīku volūduos. Paļdis latgola.lv vuordineicys sastateituojim ([http://latgola.lv/voluda/vuordineicys/danglatg.shtml])!
+
+Taipat var vērtīs [[Vikipedeja:Vikipedejis termini|Vikipedejis terminu vuordineicā]].
+
+''This '''Glossary of IT terminology''' translates common terms of IT (plus some Wikipedia specific ones) into Latgalian; these terms may also be linked to brief articles containing translations into 3 Baltic languages (Latgalian, Latvian, Lithuanian), Latgalian definition and further examples. Some of Latgalian terminology is unestablished, discussion is encouraged; links to other online dictionaries are provided, when possible.''
+
+{| id="toc" class="Puslopu ruodeklis"
+! Puslopu ruodeklis
+|-
+| align="center" |
+&nbsp;&nbsp;&nbsp;[[#A|A]] [[#B|B]] [[#C|C]]  [[#D|D]] [[#E|E]] [[#F|F]] [[#G|G]] [[#H|H]] [[#I|I]] [[#J|J]] [[#K|K]] [[#L|L]] [[#M|M]] [[#N|N]] [[#O|O]] [[#P|P]] [[#Q|Q]] [[#R|R]] [[#S|S]] [[#T|T]] [[#U|U]] [[#V|V]] [[#W|W]] [[#X|X]] [[#Y|Y]] [[#Z|Z]]&nbsp;&nbsp;&nbsp;__NOTOC__
+|}
+
+== A ==
+;abnormal termination: ''uorsaileiguo dabeigšona''
+;abort (''v''): ''puortraukt''
+;access: ''dative'', ''dativiešona'', ''datikšona''
+;address: ''adress'' (veir.k.), e-mail address - ''e-posta adress''
+;application: ''aplikaceja'', ''damārprograma''  
+;article: ''rakstīņs''; Wikipedia article - ''Vikipedejis rakstīņs''
+
+== B ==
+;blog: ''dīnroksts''
+;browser: ''vārtivs''
+;button: ''pūga''
+
+== C ==
+;change (''v''): ''puormeit''
+;child class : ''bārnklase''
+;class : ''klase''
+;click (''v''): ''damīgt''
+;command line: ''komandaiļa''
+;computer: ''dators''
+;computer science: ''informatika'' > ''datorzineiba''
+;computer technology: ''datoru tehnologeja'', ''datoru lītys'', ''datoreiba''
+;cookie: ''glabiņs - tys, kurs irā nūglobuots i kurymā globojās informaceja.''
+;copy: ''puorspīdums''
+;copy (''v''): ''puorspīst''
+;create: ''radeit''
+
+== D ==
+;date: ''data''
+;delete (''v''): ''iztreit''
+;dial-up: ''dazvons'', dial-up access - ''dazvondative''
+;directory: ''apvuocs'', ''direktoreja''
+;domain: ''muižlauks'', domain name - ''muižvuords''
+;domain name system (DNS): ''muižvuordu sistema''
+;download (''v''): ''atsasyuteit''
+
+== E ==
+;e-mail: ''e-posts''
+
+== F ==
+;file: fails, datne, file name - ''faila vuords'' (''datnis pasauka''), file size - ''faila lelums''
+;follow: ''nūīt'', follow this link - ''nūejit pa itai nūruodei''
+
+== H ==
+;home page: ''suoku puslopa'', ''sātys puslopa'', ''sātyslopa'' 
+;hyperlink: ''nūruode''
+
+== I ==
+;index: ''turīņa ruodeituojs''
+;information: ''dazynuošona''
+;inheritance: ''puormaņteiba''
+;install (''v''): ''instalēt''
+;instruction: ''instrukceja''
+;interface: ''sadurs'', ''iņterfeiss''; The programmable API of Flickr allows automated addition of images - ''Flickr'a programejamais iņterfeiss ļaun automatiskai dalikt biļdeitis''; command-line interface - ''komandailis sadurs''; graphical interface - ''grafiskais sadurs'', convenient interface - ''parūčs sadurs''; to localize an application program into Latgalian - ''puorceļt aplikacejis saduru latgaliskai''
+;Internet: ''Škārsteiklys''
+;IP address: ''IP adress''
+
+== K ==
+;keyboard: ''klaviatura''
+
+== L ==
+;line: ''aiļa'', ''aileņa''
+;link: ''nūruode''
+;login: ''slāgvuords''
+;login (''v''): ''dasaslēgt''
+
+== M ==
+;mail server: ''pastinīkservers''
+;mailing list: 1) ''adresu saroksts'' (e-posta adresatu saroksts, kurim irā voi byus syutoma informaceja);<br> 2) ''viestaiļa'' (e-posta viestuļu kūpums, kurs apjam škārsteikla dūmubīdru saraksteibu ap nūstateitu tematiku)
+;message: ''viests''
+;message board: ''dūmu meits''
+
+== O ==
+;online (''adj''): ''daslēdzis-''; online mode - ''daslēdzis režims'', online service - ''daslēdzis pakaļpīņs (pakaļpīni)'', ''online dictionary'' - daslēdzis vuordineica, škārsteikla vuordineica
+;online (''adv''): ''daslēdzē'', ''iņteraktivai''; to work online - ''dareit daslēdzē''
+;open (''v''): ''atdareit'', ''atsadareit''
+
+== P ==
+;page: ''puslopa''
+;password: ''paroļs''
+;peer-to-peer network: ''vīņleidzīņa teiklys''
+;precedence: ''saksteiba'', ''saksteibys skaits''
+;press: ''damīgt''
+;publish (''v''): ''likt vydā'', ''publicēt''
+
+== R ==
+;random access memory (RAM): ''operativais atguods''
+;read-access memory: ''narokstomais atguods''
+;reference: ''nūruode''
+;remove (''v''): ''iztreit''
+;rename (''v''): ''puorsaukt''
+;revert (''v''): ''grīzt atpakaļ''; After vandal attack dozens of articles had to be reverted - ''Piec vandaļu nadorbu daguoja grīzt atpakaļ desmitem rakstīņu''
+
+== S ==
+;security: ''apsardzeiba''
+;send (''v''): ''syuteit''
+;server: ''servers''
+;source text: ''suoku teksts''
+;standalone program: ''nadasīta programa''
+;style: ''stiļs''
+;subdirectory: ''zamapvuocs'', ''zamdirektoreja''
+;subscribe (''v''): ''dasaraksteit''
+
+== T ==
+;textbox: ''lūdzeņš''
+;thread: ''neits''
+;total: ''kūpskaits'', ''suma''
+
+== U ==
+;uniform resource locator (URL): ''URL adress'', ''vītruode''
+;unpack (''v''): ''atspīst''
+;upload: ''īsyuteit''
+;username: ''slāgvuords''
+
+== W ==
+;warn (''v''): ''puorsorguot''
+;warning: ''puorsorga''
+;Web site: ''teiklavīta'' 
+;web, World Wide Web (WWW): ''Puorstaipteiklys''
+
+[[Category:Wp/ltg]]
