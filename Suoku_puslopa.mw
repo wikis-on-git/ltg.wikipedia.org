@@ -71,11 +71,9 @@ Kategorejis
 ! style="background-color: #CEF2E8; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #8BE0C9; text-align: left;  padding-left: 7px; padding-right: 3px; -moz-border-radius:10px" | <div style="float:left;">[[File:Portal.svg|20px]] Kategorejis</div><div style="float:right;">[[File:wbar green1.jpg]]</div>
 |-
 | style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%" | 
-* [[:Category:Geografeja|Geografeja]], [[:Category:Latgolys mīsti|Latgolys mīsti]]
-* [[:Category:Latgolys doba|Latgolys doba]], [[:Category:Dzeivinīki|Dzeivinīki]]
-* [[:Category:Zineiba|Zineiba]], [[:Category:Tehnologeja|Tehnologeja]]
-* [[:Category:Viesture|Viesture]], [[:Category:Zeimeigi Latgolys ļauds|Zeimeigi Latgolys ļauds]]
-* [[:Category:Religeja Latgolā|Religeja Latgolā]]
+<div class="references-small" style="height:275px; overflow:auto; padding:3px;" >
+<categorytree>Category:Pamatkategorejis</categorytree>
+</div>
 |}
 |}
 <!--------------------------------
