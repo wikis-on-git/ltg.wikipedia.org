@@ -1,0 +1,132 @@
+'''HTML''' (''Hyper text Markup Language'' "Hiperteksta īzeimuošonys volūda") – datorūs lītuota teksta īzeimuošonys (markēšonys) volūda, ar kū īzeimuot saturu Internetā. Bīžuokī lītuojumi - puorstaipteikla puorsavārtivim i kuldys telefonim, e-posta syutejumim. Volūdu standartizej [[W3C|W3 konsorcijs]]. Dokumenti, kas raksteiti HTML formatā atsaškir nu Open Office Writer, MS Word ci Adobe PDF dokumentim ar tū, ka HTML aproksta vīn dokumenta saturu i daļu saturiskū nūzeimi, bet (eipaši HTML 4 i 5) naapzeimoj ituo dokumenta grafiskuos eipateibys - tuos var elasteigi pīmāruot datora videi, kur itys HTML dokuments lītuots. Pīvadumam, HTML apzeimoj, ka teksta gabaleņš irā pyrmuo leidzīņa vyrsroksts, bet naapzeimoj ar kaida fonta burtim, cik lels, kai izleidzynuots, i.t.t.
+
+== Elementi i jūs atributi ==
+
+Pomota vīneiba HTML volūdā irā elements. Kai ari [[XML|XML volūdā]], HTML elementam var byut atributi i īkšpuse. Īkšpusē var byut teksts ci cyti elementi. Sevkuram elementa atributam ir sovs nūsaukums i nūzeime. Atributi bīži puormej nūklusātuos vierteibys. Pīvadumam, HTML fragments: 
+malns<'''span''' style="color:red"><'''strong'''>R</'''strong'''> sorkons</'''font'''> irā 2 elementi.
+Vīns nu elementim ('''font''') puorslādz kruosu nu nūklusātuos (malnys) iz sorkonu. Ituo elementa īkšpusē asūšais elements ('''strong'''), puormej fontu nu nūklusāta iz trakna.
+Pyrmais elements ir ar vīnu atributu ('''style''') i ituo atributa vierteibu '''color:red'''. Cytam elementam atributu navā.
+
+HTML kodā atributu vierteibys īsokoms likt pēdeņuos (") ci apostrofūs ('), bet HTML 4.01 standarts tū naprasa.
+
+== HTML elementu grupys ==
+
+* '''Strukturys''' i naradzamī elementi. Pīvadumam '''html''', '''head''', '''link''', '''meta''', '''style''', '''script'''. 
+* '''Bloku elementi''', kas aizjam taisnstūri. Pīvadumam, '''div''', '''p''', '''table''', '''ol''', '''ul''', '''li'''. 
+* '''Plyusmys elementi''', kas var puorīt nu vīnys ailis iz citu, bet naprosa sev taisnstūri.
+
+== Versejis ==
+HTML versijā nūruoda versejis (i reizim zamversejis) numurus. Pīvadumam, HTML 3.2, HTML 4.01, HTML 5. 
+Pādējuos [[W3C]] versejis irā HTML versija 4.01. Versejai HTML 5 irā skices statuss, bet puorsavierieji jau nazcik elementu nu HTML 5 atbolsta. Bejuši centīni [[HTML]] raksteit ari teirā [[XML]] sintaksē (a ne [[SGML]]) - itū projektu sauc XHTML (verseja XHTML 1.0). 
+
+2009 godā suoca dorbu [[W3C|WWW arhitektu padūme]], i apstyprynova '''HTML 5''' malnrokstu<ref>http://dev.w3.org/html5/spec/Overview.html</ref>. HTML 5 irā pīmāruots kuldys telefonim; tymā irā puors jaunu elementu (pīvadumam '''canvas'''), var bez Adobe Flash i leidzeigim līdzeklim attāluot ari audio i video. 
+
+
+== Olūti ==
+{{ref}}
+
+== Nūruodis ==
+* [[W3C]] – WWW arhitektu padūme.
+* [http://www.w3.org/TR/html401/ HTML 4.01] – W3C rekomendacija.
+* [http://www.w3.org/TR/html5/ HTML 5] – W3C malnroksts
+* [http://www.whatwg.org/html5 WHATWG] – HTML 5 automatikys aproksta dorba grupa.
+* [http://up.on.lt/html5.html HTML4 i XHML1 puormej HTML5] – Vlado Palubinsko apskots ap HTML5.
+
+
+[[Kategorija:Internets]]
+[[Kategorija:Failu formati]]
+
+
+[[af:HTML]]
+[[als:HTML]]
+[[an:HTML]]
+[[ar:لغة رقم النص الفائق]]
+[[az:HTML]]
+[[ba:HTML]]
+[[bar:HTML]]
+[[bat-smg:HTML]]
+[[be:HTML]]
+[[be-x-old:HTML]]
+[[bg:HTML]]
+[[bn:হাইপার টেক্সট মার্ক আপ ল্যাঙ্গুয়েজ]]
+[[br:HTML]]
+[[bs:HTML]]
+[[ca:Hyper Text Markup Language]]
+[[co:HTML]]
+[[cs:HyperText Markup Language]]
+[[cv:HTML]]
+[[cy:HTML]]
+[[da:HTML]]
+[[de:Hypertext Markup Language]]
+[[el:HTML]]
+[[en:HTML]]
+[[eo:HTML]]
+[[es:HTML]]
+[[et:HTML]]
+[[eu:HTML]]
+[[fa:اچ‌تی‌ام‌ال]]
+[[fi:HTML]]
+[[fo:HTML]]
+[[fr:Hypertext Markup Language]]
+[[fur:HTML]]
+[[fy:HTML]]
+[[ga:HTML]]
+[[gl:HTML]]
+[[he:HTML]]
+[[hi:एच.टी.एम.एल.]]
+[[hr:HTML]]
+[[hsb:HTML]]
+[[hu:HTML]]
+[[hy:HTML]]
+[[ia:HTML]]
+[[id:Hypertext markup language]]
+[[is:HTML]]
+[[it:HTML]]
+[[ja:HyperText Markup Language]]
+[[jv:Hypertext markup language]]
+[[ka:ჰიპერტექსტური მარკირების ენა]]
+[[kaa:HTML]]
+[[kk:HTML]]
+[[km:HTML]]
+[[ko:HTML]]
+[[ku:HTML]]
+[[lb:Hypertext Markup Language]]
+[[lmo:HTML]]
+[[lt:HTML]]
+[[lv:HTML]]
+[[mk:HTML]]
+[[ml:എച്.ടി.എം.എൽ.]]
+[[mn:HTML]]
+[[mr:एच.टी.एम.एल.]]
+[[ms:HTML]]
+[[new:एच टी एम् एल्]]
+[[nl:HyperText Markup Language]]
+[[nn:HTML]]
+[[no:HTML]]
+[[pl:HTML]]
+[[pt:HTML]]
+[[ro:HyperText Markup Language]]
+[[ru:HTML]]
+[[sh:HTML]]
+[[simple:HTML]]
+[[sk:Hypertext markup language]]
+[[sl:HTML]]
+[[so:HTML]]
+[[sq:HTML]]
+[[sr:HTML]]
+[[sv:HTML]]
+[[sw:HTML]]
+[[ta:எச்.டி.எம்.எல்]]
+[[te:HTML]]
+[[tg:HTML]]
+[[th:เอชทีเอ็มแอล]]
+[[tl:HTML]]
+[[tr:HTML]]
+[[uk:HTML]]
+[[ur:وراۓمتن زبان تدوین]]
+[[uz:HTML]]
+[[vi:HTML]]
+[[yi:HTML]]
+[[yo:HTML]]
+[[zh:HTML]]
+[[zh-yue:Html]]
