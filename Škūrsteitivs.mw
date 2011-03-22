@@ -1,0 +1,41 @@
+'''Škūrsteitivs''' (ci '''Puorstaipteikla škūrsteitivs''' ci '''puorsavieriejs''') irā [[Softa aplikaceja|softa aplikaceja]] kab ruodeitu, navigētu i maklātu informaceju [[Puorstaipteiklā|Puorstaipteikls]]. Sevkuru informacejis gabaleņu (''resursu'') identificej [[URL adress]] - tei var byut teikla lopa, obrazeņš, video ci kaids cits turīņs.<ref>{{cite web
+|url=http://www.w3.org/TR/webarch/#id-resources
+|title=URI/Resource Relationships
+|work=Architecture of the World Wide Web, Volume One
+|last=Jacobs
+|first=Ian
+|coauthors=Walsh, Norman
+|publisher=[[World Wide Web Consortium]]
+|date=15 December 2004
+|accessdate=30 June 2009
+}}</ref> [[Nūruode|Nūruodis]] (''hipersaitys'') resursūs ļaun lītuotuojim vīgli puorīt škūrsteitivā nu vīna resursa da cyta.
+
+Škūrsteitivi gon vysulobuok pīmāruoti, kab puorsavārtu uorejūs teiklu resursus, bet jūs var lītuot ari privatūs teiklu ci lokalu failu ruodeišanai. Goduos, ka puorsavārtivam irā eipašs režims (''nadaslēdzis režims'' ci ''Offline mode''), kur mozuok drūšuma kontroles nakai verūtīs publisku turīni.
+
+==Viesture==
+Škūrsteitiva viesture suocās 1980-tū godu beiguos, kad nazcik tehnologeju ļuove Tim'am Berners-Lee radeit pyrmuo puorstaipteikla (''World Wide Web'') arhitekturu. Jau ogruok Ted's Nelson's i Douglas Engelbart's beja radejuši [[Hiperteksts|hiperteksta]] sapratīni. Hiperteksts beja vīns nu centralim konceptim ari Puorstaipteiklā. Cyti koncepti beja URL adress (''Uniform Resource Locator'' - vīndabeigais resursa vītruods), HTTP protokols (''Hypertext Transfer Protocol'' - hiperteksta puorsyuteišonys protokols), i markēšonys volūda [[HTTP]]. 
+
+Pyrmuo ārtuok lītuojamuo i grafisko škūrsteitiva ''NCSA Mosaic'' pasaruodeišona 1993.godā nūvede pi Web'a lītuošonys strauja pīauguma. Marc's Andreessen's, kurs vadeja Mosaic dorbus NCSA organizacejā dreiži suoca sovu uzjāmumu, kū nūsauce Netscape, i radeja pyrmū komercialū škūrsteitivu Netscape Navigator 1994.godā, kas dreiži kliva populars, i jū popularitates maksimuma breidī lītova 90% nu vysim puorstaipteikla lītuotuojim. 
+
+[[Microsoft]] dreiži radeja sovu škūrsteitivu [[Internet Explorer]] 1995.godā, i suocās pyrmī "škūrsteitivu vaidi" (''browser war''). Izmantojūt sovu monopola poziceju operaceju sistemu tiergū, Microsoft varēja audzēt sova škūrsteitiva popularitati - i ap 2002.godu jū lītova kaidi 95% nu Web'a lītuotuojim.<ref name="searchenginejournal.com">[http://www.searchenginejournal.com/mozilla-firefox-internet-browser-market-share-gains-to-74/1082/ Searchenginejournal.com]</ref> Vāluok, kad pasaruodēja cyti lobi konkurenti - [[Firefox]], Safari, Opera, [[Google Chrome]], tod Explorer'a tiergus dale samazynuoja da 56.8%.<ref>http://marketshare.hitslink.com/browser-market-share.aspx?qprid=0</ref>
+
+Napaseņ škūrsteitivi atsateistej ari iz [[Pruottelefons|pruottelefonim]]. Lītuojūt Web'a biblioteku [[WebKit]], irā pataiseiti softa rysynuojumi iz [[Google Android]] (operaceju sistema Android), Apple iPhone (operaceju sistema iOS), Nokia (softa platforma S60) i iz Palm (operaceju sistema webOS). Nu vysu jaunuokais škūrsteitivs irā Google pataiseitais [[Google Chrome]] (ari lītuoj tū pošu WebKit biblioteku). Tierga dale jam strauji aug. 
+
+===Lītuotuoja sadurs===
+Lelajai dalei nu škūrsteitivim irā kūpeigi taidi sadura elementi:
+* "Atpakaļ" i "iz prīkšu" (''Back'' i ''forward'') pūgys, kab atsagrīztu ogruokā lopā, ci ītu škūrsteišonys viesturē iz prīkšu.
+* Škūrsteišonys viesture (''Browsing history'') - saroksts, kur radzomi resursi, kas pīpraseiti ogruok. 
+* "Atsvīžeit" (''refresh'' ci ''reload'') pūga - kab pīpraseitu tū pošu resursu vēļ reizi.
+* "Stop" pūga, kab prīkšlaiceigi beigtu resursa pīprasejumu.
+* "Sātys" (''home'') pūga, kab atsagrīztu lītuotuoja [[Sātyslopa|sātyslopā]]. 
+* "Adresa lūdzeņš" (''address bar'') kab īraksteitu URL vītruodu ci adresu. 
+* "Meklēšonys lūdzeņš" (''search bar''), kab īraksteitu terminus [[Maklātivs|maklātivā]]
+* "Statusa jūsta" (''status bar''), kab attāluotu viestejumus nu softa aplikacejis. 
+* Mierīņa īstateišana (''zooming''), kab tekstu lelynuotu ci mozynuotu.
+* Meklēšona lopā (''Ctrl+F'')
+
+===Drūšeiba===
+Leluo dale škūrsteitivu atbolsta [[HTTPS|HTTPS protokolu]] i pīduovuoj veidus, kai iztreit Web'a kešu, [[Glabiņs|glabiņus]] i puorsavieršonys viesturi. 
+
+===Standartu atspaids===
+Ogruok škūrsteitivi lītoja vīnkuoršu [[HTML]] verseji, vāluok jī paplatynova HTML volūdys vareibu, irā ari atspaids [[GIF]], [[JPEG]], [[PNG]] obrazeņu formatim, CSS stiļam, nazcik mediju formatim. Suocūt nu HTML5 Web'a lopu autori var īlikt audio i video failus (pīvadumam, [[Ogg Vorbis]] formatā), nalītuojūt Adobe Flash, ci cytus [[Papiļdejums|papiļdejumus]].
