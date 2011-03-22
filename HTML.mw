@@ -1,4 +1,4 @@
-'''HTML''' (''Hyper text Markup Language'' "Hiperteksta īzeimuošonys volūda") – datorūs lītuota teksta īzeimuošonys (markēšonys) volūda, ar kū īzeimuot saturu Internetā. Bīžuokī lītuojumi - puorstaipteikla puorsavārtivim i kuldys telefonim, e-posta syutejumim. Volūdu standartizej [[W3C|W3 konsorcijs]]. Dokumenti, kas raksteiti HTML formatā atsaškir nu Open Office Writer, MS Word ci Adobe PDF dokumentim ar tū, ka HTML aproksta vīn dokumenta saturu i daļu saturiskū nūzeimi, bet (eipaši HTML 4 i 5) naapzeimoj ituo dokumenta grafiskuos eipateibys - tuos var elasteigi pīmāruot datora videi, kur itys HTML dokuments lītuots. Pīvadumam, HTML apzeimoj, ka teksta gabaleņš irā pyrmuo leidzīņa vyrsroksts, bet naapzeimoj ar kaida fonta burtim, cik lels, kai izleidzynuots, i.t.t.
+'''HTML''' (''Hyper text Markup Language'' "Hiperteksta īzeimuošonys volūda") – datorūs lītuota teksta īzeimuošonys (markēšonys) volūda, ar kū īzeimuot saturu Internetā. Bīžuokī lītuojumi - puorstaipteikla puorsavārtivim i [[Pruottelefons|pruottelefonim], e-posta viestim. Volūdu standartizej [[W3C|W3 konsorcijs]]. Dokumenti, kas raksteiti HTML formatā atsaškir nu Open Office Writer, MS Word ci Adobe PDF dokumentim ar tū, ka HTML aproksta vīn dokumenta saturu i daļu saturiskū nūzeimi, bet (eipaši HTML 4 i 5) naapzeimoj ituo dokumenta grafiskuos eipateibys - tuos var elasteigi pīmāruot datora videi, kur itys HTML dokuments lītuots. Pīvadumam, HTML apzeimoj, ka teksta gabaleņš irā pyrmuo leidzīņa vyrsroksts, bet naapzeimoj ar kaida fonta burtim, cik lels, kai izleidzynuots, i.t.t.
 
 == Elementi i jūs atributi ==
 
@@ -19,7 +19,7 @@ HTML kodā atributu vierteibys īsokoms likt pēdeņuos (") ci apostrofūs ('), 
 HTML versijā nūruoda versejis (i reizim zamversejis) numurus. Pīvadumam, HTML 3.2, HTML 4.01, HTML 5. 
 Pādējuos [[W3C]] versejis irā HTML versija 4.01. Versejai HTML 5 irā skices statuss, bet puorsavierieji jau nazcik elementu nu HTML 5 atbolsta. Bejuši centīni [[HTML]] raksteit ari teirā [[XML]] sintaksē (a ne [[SGML]]) - itū projektu sauc XHTML (verseja XHTML 1.0). 
 
-2009 godā suoca dorbu [[W3C|WWW arhitektu padūme]], i apstyprynova '''HTML 5''' malnrokstu<ref>http://dev.w3.org/html5/spec/Overview.html</ref>. HTML 5 irā pīmāruots kuldys telefonim; tymā irā puors jaunu elementu (pīvadumam '''canvas'''), var bez Adobe Flash i leidzeigim līdzeklim attāluot ari audio i video. 
+2009 godā suoca dorbu [[W3C|WWW arhitektu padūme]], i apstyprynova '''HTML 5''' malnrokstu<ref>http://dev.w3.org/html5/spec/Overview.html</ref>. HTML 5 irā pīmāruots pruottelefonim; tymā irā puors jaunu elementu (pīvadumam '''canvas'''), var bez Adobe Flash i leidzeigim līdzeklim attāluot ari audio i video. 
 
 
 == Olūti ==
