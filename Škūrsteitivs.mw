@@ -1,14 +1,4 @@
-'''Škūrsteitivs''' (ci '''Puorstaipteikla škūrsteitivs''' ci '''puorsavieriejs''') irā [[Softa aplikaceja|softa aplikaceja]] kab ruodeitu, navigētu i maklātu informaceju [[Puorstaipteikls|Puorstaipteiklā]]. Sevkuru informacejis gabaleņu (''resursu'') identificej [[URL adress]] - tei var byut teikla lopa, obrazeņš, video ci kaids cits turīņs.<ref>{{cite web
-|url=http://www.w3.org/TR/webarch/#id-resources
-|title=URI/Resource Relationships
-|work=Architecture of the World Wide Web, Volume One
-|last=Jacobs
-|first=Ian
-|coauthors=Walsh, Norman
-|publisher=[[World Wide Web Consortium]]
-|date=15 December 2004
-|accessdate=30 June 2009
-}}</ref> [[Nūruode|Nūruodis]] (''hipersaitys'') resursūs ļaun lītuotuojim vīgli puorīt škūrsteitivā nu vīna resursa da cyta.
+'''Škūrsteitivs''' (ci '''Puorstaipteikla škūrsteitivs''' ci '''puorsavieriejs''') irā [[Softa aplikaceja|softa aplikaceja]] kab ruodeitu, navigētu i maklātu informaceju [[Puorstaipteikls|Puorstaipteiklā]]. Sevkuru informacejis gabaleņu (''resursu'') identificej [[URL adress]] - tei var byut teikla lopa, obrazeņš, video ci kaids cits turīņs.<ref>http://www.w3.org/TR/webarch/#id-resources</ref> [[Nūruode|Nūruodis]] (''hipersaitys'') resursūs ļaun lītuotuojim vīgli puorīt škūrsteitivā nu vīna resursa da cyta.
 
 Škūrsteitivi gon vysulobuok pīmāruoti, kab puorsavārtu uorejūs teiklu resursus, bet jūs var lītuot ari privatūs teiklu ci lokalu failu ruodeišanai. Goduos, ka puorsavārtivam irā eipašs režims (''nadaslēdzis režims'' ci ''Offline mode''), kur mozuok drūšuma kontroles nakai verūtīs publisku turīni.
 
