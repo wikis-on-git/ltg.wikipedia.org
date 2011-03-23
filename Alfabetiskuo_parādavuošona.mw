@@ -49,15 +49,23 @@ Latgalīšu volūdai ir lela morfologiskuo boguoteiba - vuordim ir lūcejumi, ka
 Latgalīšu volūdā navarim bez dūmuošonys puorjemt tuos sekundaruos atškireibys, kas pastuov, pīmāram, latvīšu voi vuocīšu volūdā - par tū, ka patskanu mejis latgaļu volūdā ir sovpateigys. Latgalīšu volūdys datorizaceja vēļ nav daguojuse da tam, kab byutu datoru bibliotekys ar standarta kolacejis algoritmim, kai tys ir latvīšu, krīvu i vuocīšu volūdom. Vēļ nav zynoms, voi latgaļu volūdā vajadzeigys sekundaruos atšķireibys starp eisajim i garajim burtim. Pīmāram, voi "a" i "ā" atsaškir primari voi sekundari. Pīmāram, voi vuorda "gods" formys ''goda'' i ''godā'' byutu juoroksta sūplok, a ''godadīna'' piec jū obadvieju. Voi ''ābļavuot''(ēvelēt) ir alfabetiskai pyrms vuorda ''acteņa''? Voi burti "i" i "y" atsaškir primari voi sekundari? Vysi tī vaicuojumi gaida sova atsacejuma. Varim vīn minēt, ka tuos metatonejis, kur "y" bīži puorīt iz "i", pīmāram, ''c'''y'''lps'' - ''c'''i'''ļpeņš'', ''st'''y'''prs'' - ''st'''i'''prinīks'', varātu byut vīns nu īmeslim, deļ kuo latgaļu volūdā burti "i" i "y" ir atrūnami alfabetā sūplok, bet cytuos volūduos (anglīšu, franču, vuocīšu) "y" ir pošuos alfabeta beiguos pyrms "z".
 
 == Nūruodis ==
-* [http://java.sun.com/j2se/1.5.0/docs/api/java/text/RuleBasedCollator.html "java.text.RuleBasedCollator"] - Javys klase, kas ļaun taiseit sovus parādavuošonys algoritmus, kas atsaškir nu standarta lokalizaceju (pīmāram, lejislatvīšu(lv), angļu(en)). 
+* [http://java.sun.com/j2se/1.5.0/docs/api/java/text/RuleBasedCollator.html "java.text.RuleBasedCollator"] - Javys klase, kas ļaun taiseit sovus parādavuošonys algoritmus, kas atsaškir nu standarta lokalizaceju (pīmāram, lejislatvīšu(lv), angļu(en)).
 
-
-
+[[ca:Ordre alfabètic]]
 [[cs:Abecední řazení]]
-[[de:Sortierung]]
+[[de:Alphabetische Sortierung]]
 [[en:Collation]]
-[[fr:Classement alphabétique]]
-[[gl:Clasificación alfabética]]
-[[is:Stafrófsröð]]
 [[fi:Aakkosjärjestys]]
+[[fr:Classement alphabétique]]
+[[gl:Orde alfabética]]
+[[he:סדר אלפביתי]]
+[[is:Stafrófsröð]]
+[[it:Ordine alfabetico]]
+[[ml:അകാരാദി]]
+[[mr:अकारविल्हे]]
+[[nl:Alfabetische volgorde]]
+[[pl:Porządek alfabetyczny]]
 [[pt:Ordem alfabética]]
+[[ro:Ordine alfabetică]]
+[[simple:Alphabetical order]]
+[[tr:Alfabetik]]
