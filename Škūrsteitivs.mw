@@ -1,8 +1,8 @@
-'''Škūrsteitivs''' (ci '''Puorstaipteikla škūrsteitivs''' ci '''puorsavieriejs''') irā [[Softa aplikaceja|softa aplikaceja]] kab ruodeitu, navigētu i maklātu informaceju [[Puorstaipteikls|Puorstaipteiklā]]. Sevkuru informacejis gabaleņu (''resursu'') identificej [[URL adress]] - tei var byut teikla lopa, obrazeņš, video ci kaids cits turīņs.<ref>http://www.w3.org/TR/webarch/#id-resources</ref> [[Nūruode|Nūruodis]] (''hipersaitys'') resursūs ļaun lītuotuojim vīgli puorīt škūrsteitivā nu vīna resursa da cyta.
+'''Škūrsteitivs''' (ci '''Puorstaipteikla škūrsteitivs''' ci '''puorsavieriejs''') irā [[softa aplikaceja]] kab ruodeitu, navigētu i maklātu informaceju [[Puorstaipteikls|Puorstaipteiklā]]. Sevkuru informacejis gabaleņu (''resursu'') identificej [[URL adress]] - tei var byut teikla lopa, obrazeņš, video ci kaids cits turīņs.<ref>http://www.w3.org/TR/webarch/#id-resources</ref> [[Nūruode|Nūruodis]] (''hipersaitys'') resursūs ļaun lītuotuojim vīgli puorīt škūrsteitivā nu vīna resursa da cyta.
 
 Škūrsteitivi gon vysulobuok pīmāruoti, kab puorsavārtu uorejūs teiklu resursus, bet jūs var lītuot ari privatūs teiklu ci lokalu failu ruodeišanai. Goduos, ka puorsavārtivam irā eipašs režims (''nadaslēdzis režims'' ci ''Offline mode''), kur mozuok drūšuma kontroles nakai verūtīs publisku turīni.
 
-==Viesture==
+== Viesture ==
 Škūrsteitiva viesture suocās 1980-tū godu beiguos, kad nazcik tehnologeju ļuove Tim'am Berners-Lee radeit pyrmuo puorstaipteikla (''World Wide Web'') arhitekturu. Jau ogruok Ted's Nelson's i Douglas Engelbart's beja radejuši [[Hiperteksts|hiperteksta]] sapratīni. Hiperteksts beja vīns nu centralim konceptim ari Puorstaipteiklā. Cyti koncepti beja URL adress (''Uniform Resource Locator'' - vīndabeigais resursa vītruods), [[HTTP|HTTP protokols]] (''Hypertext Transfer Protocol'' - hiperteksta puorsyuteišonys protokols), i markēšonys volūda [[HTML]]. 
 
 Pyrmuo ārtuok lītuojamuo i grafisko škūrsteitiva ''NCSA Mosaic'' pasaruodeišona 1993.godā nūvede pi Web'a lītuošonys strauja pīauguma. Marc's Andreessen's, kurs vadeja Mosaic dorbus NCSA organizacejā dreiži suoca sovu uzjāmumu, kū nūsauce Netscape, i radeja pyrmū komercialū škūrsteitivu Netscape Navigator 1994.godā, kas dreiži kliva populars, i jū popularitates maksimuma breidī lītova 90% nu vysim puorstaipteikla lītuotuojim. 
@@ -11,9 +11,9 @@ Pyrmuo ārtuok lītuojamuo i grafisko škūrsteitiva ''NCSA Mosaic'' pasaruodei�
 
 Napaseņ škūrsteitivi atsateistej ari iz [[Pruottelefons|pruottelefonim]]. Lītuojūt Web'a biblioteku [[WebKit]], irā pataiseiti softa rysynuojumi iz [[Google Android]] (operaceju sistema Android), Apple iPhone (operaceju sistema iOS), Nokia (softa platforma S60) i iz Palm (operaceju sistema webOS). Nu vysu jaunuokais škūrsteitivs irā Google pataiseitais [[Google Chrome]] (ari lītuoj tū pošu WebKit biblioteku). Tierga dale jam strauji aug. 
 
-==Softa funkcejis==
+== Softa funkcejis ==
 
-===Lītuotuoja sadurs===
+=== Lītuotuoja sadurs ===
 Lelajai dalei nu škūrsteitivim irā kūpeigi taidi sadura elementi:
 * "Atpakaļ" i "iz prīkšu" (''Back'' i ''forward'') pūgys, kab atsagrīztu ogruokā lopā, ci ītu škūrsteišonys viesturē iz prīkšu.
 * Škūrsteišonys viesture (''Browsing history'') - saroksts, kur radzomi resursi, kas pīpraseiti ogruok. 
@@ -26,17 +26,16 @@ Lelajai dalei nu škūrsteitivim irā kūpeigi taidi sadura elementi:
 * Mierīņa īstateišana (''zooming''), kab tekstu lelynuotu ci mozynuotu.
 * Meklēšona lopā (''Ctrl+F'')
 
-===Drūšeiba===
+=== Drūšeiba ===
 Leluo dale škūrsteitivu atbolsta [[HTTPS|HTTPS protokolu]] i pīduovuoj veidus, kai iztreit Web'a kešu, [[Glabiņs|glabiņus]] i puorsavieršonys viesturi. 
 
-===Standartu atspaids===
+=== Standartu atspaids ===
 Ogruok škūrsteitivi lītoja vīnkuoršu [[HTML]] verseji, vāluok jī paplatynova HTML volūdys vareibu, irā ari atspaids [[GIF]], [[JPEG]], [[PNG]] obrazeņu formatim, CSS stiļam, nazcik mediju formatim. Suocūt nu HTML5 Web'a lopu autori var īlikt audio i video failus (pīvadumam, [[Ogg Vorbis]] formatā), nalītuojūt Adobe Flash, ci cytus [[Papiļdejums|papiļdejumus]].
 
-==Nūruodis==
+== Nūruodis ==
 {{Nūruodis}}
 
-
-[[Category:Škārsteiklys]]
+[[Kategoreja:Škārsteiklys]]
 
 [[af:Webblaaier]]
 [[ar:متصفح ويب]]
