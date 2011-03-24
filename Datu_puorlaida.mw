@@ -2,14 +2,14 @@
 
 Datu puorlaida var byut, pīvadumam:
 * datu puorsyute nu datora cītuo diska iz mobilū telefonu;
-* iņterneta lītuošona (dati puorlaižami nu [[Ziņteiklys|ziņteikla ]] [[Servers|servera]] iz [[Vārtivs|vārtivi]] lītuotuoja datorā);
+* iņterneta lītuošona (dati puorlaižami nu [[Ziņteiklys|ziņteikla]] [[Servers|servera]] iz [[Vārtivs|vārtivi]] lītuotuoja datorā);
 * [[Viesteņa|viestenis]] syuteišona nu vīna mobiluo telefona iz cytu;
 * drūsa vydyskuo teikla sataiseišona iz vyds izškireigūs geografiskajūs punktūs asūšu datoru (datori tys tam syuta datus, kuri ļaun nūstateit dasasliedzieja [[Taidojeiba|taidojeibu]] i apsorgoj nu svešu dasasliedzieju)
 i leidz.
 
 Datu puorlaidys [[Datu puorlaida#Datu puorlaidys tehnologejis|tehnologejis]] var byut, pīvadumam:
-* daslāguma tehnologejis - vara vodi, [[Gaismysvodi|gaismysvodi]] aba optiskī kabeli, lazerdaslāgums, [[Radejsaita|radejsaita]], [[Infrasorkonī spaiti|infrasorkonī spaiti]] i ct.;
-* standartizātys datu grupiešonys i kanalu taiseišonys tehnologejis - [[DSL|DSL]], [[ADSL|ADSL]], [[MPLS|MPLS]], [[Wi-Fi|Wi-Fi]], [[Wi-Max|Wi-Max]] i ct.
+* daslāguma tehnologejis - vara vodi, [[gaismysvodi]] aba optiskī kabeli, lazerdaslāgums, [[radejsaita]], [[infrasorkonī spaiti]] i ct.;
+* standartizātys datu grupiešonys i kanalu taiseišonys tehnologejis - [[DSL]], [[ADSL]], [[MPLS]], [[Wi-Fi]], [[Wi-Max]] i ct.
 
 Datu puorlaidā svareigs sapratīņs irā datu puorlaidys [[Datu puorlaida#Protokoli i sasauksme|protokols]], kurs puorlaižamūs datus dora atpazeistamus i puorskaitomus. Poši myuslaiceigī protokoli patur datu syuteišonu [[Datu pakets|paketu]] formā.
 
@@ -17,16 +17,16 @@ Datu puorlaidā svareigs sapratīņs irā datu puorlaidys [[Datu puorlaida#Proto
 Šudinejuos datu puorlaidys pyrmaguojiejs beja Morzis signalu syuteišona pa vodim, caur gaismys myrgu, radejis signalu atmejā i t. t. Tok Morzys signalu tehnologeja izaškir nu myslaiceiguos binariskuos datu puorlaidis - Morzys sistemā vajadzeigi vysaidi paužu garumi, kab informaceja byutu saprosta.
 
 == Datu puorlaidys atmejis ==
-'''Serejeiguo puorlaide''' (anglīšu ''serial transmission'', krīvu ''последовательная передача'', latvīšu ''seriālā pārraide'') - datu puorlaide, kod biti syutomi blokūs, īmūšūs tys aiz tuo. Informaceju var syuteit i pa vīnam bitam, tūlaik datu dabuojiejs nu seveigūs bitu sataisa datu blokus. Serijeigū atmeju lītoj datim puorlaist leluokā atostumā, kam leidza ar jim var vīgli puorsyuteit puorvēris skaitli voi puoreiguma bitu.<br><br>
+'''Serejeiguo puorlaide''' (anglīšu ''serial transmission'', krīvu ''последовательная передача'', latvīšu ''seriālā pārraide'') - datu puorlaide, kod biti syutomi blokūs, īmūšūs tys aiz tuo. Informaceju var syuteit i pa vīnam bitam, tūlaik datu dabuojiejs nu seveigūs bitu sataisa datu blokus. Serijeigū atmeju lītoj datim puorlaist leluokā atostumā, kam leidza ar jim var vīgli puorsyuteit puorvēris skaitli voi puoreiguma bitu.<br /><br />
 
-'''Paraleluo puorlaida''' (anglīšu ''parallel transmission'', krīvu ''параллельная  передача'', latvīšu ''paralēlā pārraide'') - datu puorlaida, kod biti syutomi vīnā laikā pa nazcik kanalim, a voi pa vīnu lineju caur multipleksiešonu. Itei atmeja labviņ dreizuoka na serejeiguo datu puorlaida, kam vīns baits puorsasyuta mudruok kai vīns bits. Itū metodu lītoj dators sovom vydyskajom darbeibom, pīvadumam, vydyskajuos magistralēs, a kod nakod - i uorejom saitom, saceisim, zynuodamīs ar drukaunīku. Tok itys metods tur sovus tryukumus - iz vyds nazcik kanalu atsarūn vaira trauciejumu kai tūlaik, ka datus syuteitu tik pa vīnu kanalu.
+'''Paraleluo puorlaida''' (anglīšu ''parallel transmission'', krīvu ''параллельная передача'', latvīšu ''paralēlā pārraide'') - datu puorlaida, kod biti syutomi vīnā laikā pa nazcik kanalim, a voi pa vīnu lineju caur multipleksiešonu. Itei atmeja labviņ dreizuoka na serejeiguo datu puorlaida, kam vīns baits puorsasyuta mudruok kai vīns bits. Itū metodu lītoj dators sovom vydyskajom darbeibom, pīvadumam, vydyskajuos magistralēs, a kod nakod - i uorejom saitom, saceisim, zynuodamīs ar drukaunīku. Tok itys metods tur sovus tryukumus - iz vyds nazcik kanalu atsarūn vaira trauciejumu kai tūlaik, ka datus syuteitu tik pa vīnu kanalu.
 
 == Asinhroniskuo i sinhroniskuo datu puorlaida ==
-'''Asinhroniskuo puorlaida ''' (anglīšu ''asynchronous transmission'', krīvu ''асинхронная передача'', latvīšu ''asinhronā pārraide'') - datu puorlaida, kuramā lītoj suokšonys i nūstuošonys bitus, kab  apzeimuotu datu puorlaidys suokys i beigys. Tys zeimoj, ka 8 bitu [[ASCII|ASCII]] literu eistyn puorlaiž izlītojūt 10 bitus, pīv., ''A'' puorlaiž kai ''1 0100 0001 0''. Datu puorlaidis suokuos i beiguos asūšais papyldomais vīninīks (ci nule, pīdareigai nu puoreiguma bita) dabuojiejam pyrma paviestej, ka tiks puorsyuteits liters, a piečuok - ka liters irā beidzīs. Itū datu puorlaidis metodu lītoj tūlaik, kod datus suyta puorrautai, a na vīngabaletigā straujā. Suoku i nūstuošonys bitim sovā vydā vajag byut preteimim (ka soku irā "1", to beigu irā "0", i ūtraiži), tūlaik dabuojiejs var pazeit, kod suoksīs jau cyts syutomais datu pakets.<br><br>
+'''Asinhroniskuo puorlaida ''' (anglīšu ''asynchronous transmission'', krīvu ''асинхронная передача'', latvīšu ''asinhronā pārraide'') - datu puorlaida, kuramā lītoj suokšonys i nūstuošonys bitus, kab apzeimuotu datu puorlaidys suokys i beigys. Tys zeimoj, ka 8 bitu [[ASCII]] literu eistyn puorlaiž izlītojūt 10 bitus, pīv., ''A'' puorlaiž kai ''1 0100 0001 0''. Datu puorlaidis suokuos i beiguos asūšais papyldomais vīninīks (ci nule, pīdareigai nu puoreiguma bita) dabuojiejam pyrma paviestej, ka tiks puorsyuteits liters, a piečuok - ka liters irā beidzīs. Itū datu puorlaidis metodu lītoj tūlaik, kod datus suyta puorrautai, a na vīngabaletigā straujā. Suoku i nūstuošonys bitim sovā vydā vajag byut preteimim (ka soku irā "1", to beigu irā "0", i ūtraiži), tūlaik dabuojiejs var pazeit, kod suoksīs jau cyts syutomais datu pakets.<br /><br />
 
 '''Sinhroniskuo puorlaida''' (anglīšu ''synchronous transmission'', krīvu ''синхронная передача'', latvīšu ''sinhronā pārraide'') - datu puorlaida, kuramā nalītoj suokšonys i nūstuošonys bitu, a tuo vītā sinhronizej datu puorlaidys dreizumu syuteituoja i dabuojieja ītaisē, lītojūt sevkurā komponentā īstateitu stuņdinīka signalu. Iz vyds diveju mozgu puorsyuta nūtaleju, vīngabaleigu datu strauju. Deļ tuo, ka navā suoku i beigu bitu, datu puorlaidys dreizums irā leluoks, tok itai var atsarast daudzuok klaidu, kam stuņdinīki var pagaisynuot sinhronizaceju i dabuojiejai ītasei var byut napareizs laiks - na tys, ap kurū dasarunuots [[Datu puorlaida#Protokoli i sasauksme|protokolā]]. Partū kuri nakuri baiti var tikt samaituoti (pagaisynuot bitus). Kab itū problemu nūgrīztu, doroma stuņdinīku resinhronizceja i lītojams puorvēris skaitlis, kuri puordrūsynoj baita pareizu saprasmi i pījimšonu.
 
-== Protokoli i sasauksme==
+== Protokoli i sasauksme ==
 [[Datu puorlaidys protokols|'''Protokols''']] (anglīšu ''protocol'', krīvu ''протокол'', latvīšu ''protokols'') - diveju ītaišu sovā vydā dasarunuoti nūsacejumi ap tū, kaidam vajag byut puorlaižamūs datu formatam. 
 Kab nūtyktu datu puorlaida iz vyds sevkuru diveju ītaišu, jom pyrma tuo sovā vydā vajag dasarunuot ap [[Datu puorlaidys protokols|protokolu]].
 
