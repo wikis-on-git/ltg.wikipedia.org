@@ -47,7 +47,7 @@
 {{!}} colspan=2 {{!}} {{{reitings}}}
 {{!}}-
 }}
-! {{#if:{{{creator|}}}{{{pīlītuojums|}}}{{#ifeq:{{Infoskreine Volūda/family-color|{{{familycolor|}}}}}|black|1}}|Category (purpose)|[[Volūdu saime|Volūdu saime]]}}
+! {{#if:{{{creator|}}}{{{pīlītuojums|}}}{{#ifeq:{{Infoskreine Volūda/family-color|{{{familycolor|}}}}}|black|1}}|Category (purpose)|[[Volūdu saime]]}}
 | colspan=2 style="text-align:left; line-height:100%;" | {{{family|{{{fam1|{{#if:{{{lītuotuoji|}}}{{#ifeq:{{Infoskreine Volūda/family-color|{{{familycolor|}}}}}|silver|1}}|''Unknown''|{{#if:{{{creator|}}}{{{pīlītuojums|}}}|[[constructed language]]|{{Infoskreine Volūda/genetic2|{{{familycolor|Default}}}}}}}}}}}}
 <ul style="line-height:100%; margin-left:15px;padding-left:0"><li>
 {{#if:{{{fam2|}}}
