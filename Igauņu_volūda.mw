@@ -1,235 +1,25 @@
-{| class="toc" align="right" style="width: 22em; text-align: left; font-size: 88%; line-height: 1.5em"
-! colspan=3 style="text-align: center; font-size: 125%; font-weight: bold; color: {{#if:{{{creator|}}}{{{pīlītuojums|}}}{{#ifeq:{{Infoskreine Volūda/family-color|{{{familycolor|}}} }}|black|1}}|white|{{{fontcolor|black}}} }}; background-color: {{#if:{{{creator|}}}{{{pīlītuojums|}}}|black|{{#if:{{{lītuotuoji|}}}|silver|{{Infoskreine Volūda/family-color|{{{familycolor|Default}}} }} }} }}" | {{{pasauka|Igauņu volūda}}}
-|-
-{{#if:{{{nativename|}}}|
-! colspan=3 style="text-align: center; font-weight: bold; color: {{#if:{{{creator|}}}{{{pīlītuojums|}}}{{#ifeq:{{Infoskreine Volūda/family-color|{{{familycolor|}}} }}|black|1}}|white|{{{fontcolor|black}}} }}; background-color: {{#if:{{{creator|}}}{{{pīlītuojums|}}}|black|{{#if:{{{lītuotuoji|}}}|silver|{{Infoskreine Volūda/family-color|{{{familycolor|Default}}} }} }} }}" {{!}} {{{nativename|}}}
-{{!}}-
+{{Infoskreine Volūda
+| name          = Igauņu volūda
+|nativename=eesti keel
+|familycolor=Uralīšu
+|states=[[Igauneja]], [[Krīveja]]
+|region=[[Pūstumu Europa]]
+|speakers=1 048 660
+|fam1=[[Uralīšu volūdys|Uralīšu]]
+|fam2=[[Suomugru volūdys|Suomugru]]
+|fam3=[[Suomu-permīšu volūdys|Suomu-permīšu]]
+|fam4=[[Baļtejis suomu volūdys|Baļtejis suomu]]
+|script=[[Latiņu alfabets|latiņu]]
+|nation=[[Igauneja]]<br>[[Europys Savīneiba]]
+|agency=[[Igauņu volūdys iņstituts]]
+|iso1=et
+|iso2=est
+|iso3=est
+|lc1=ekk|ld1=standarta igauņu|ll1=none
+|lc2=vro|ld2=Vyrovīšu|ll2=vyrovīšu volūda
 }}
-{{#if:{{{atvaigs|}}}|
-! style="vertical-align: middle" {{!}} {{{caption|}}}
-{{!}} colspan=2 {{!}} {{{atvaigs|}}}
-{{!}}-
-}}
-{{#if:{{{izsoka|}}}|
-! Izsoka
-{{!}} colspan=2 {{!}} {{{izsoka|''tyks dalykta''}}}
-{{!}}-
-}}
-{{#if:{{{creator|}}}{{{pīlītuojums|}}}{{#ifeq:{{Infoskreine Volūda/family-color|{{{familycolor|}}}}}|black|1}}|! Iztaisejuši |! {{#if:{{{lītuotuoji|}}}{{#ifeq:{{Infoskreine Volūda/family-color|{{{familycolor|}}}}}|silver|1}}|Žestu volūdu|Volūdu}} lītoj}}
-| {{#if:{{{creator|}}}{{{pīlītuojums|}}}{{#ifeq:{{Infoskreine Volūda/family-color|{{{familycolor|}}}}}|black|1}}|
-{{!}} {{{creator|–}}}
-{{!}}-|
-{{!}} {{{states|{{{regions|–}}}
-{{!}}-}}}
-}}
-{{#if:{{{date|}}}|
-! Date founded
-{{!}} colspan=2 {{!}} {{{date}}}
-{{!}}-
-}}
-|-
-{{#ifexpr:{{#if:{{{states|}}}|1|0}}+{{#if:{{{regions|}}}|1|0}}!=1|
-! {{#if:{{{creator|}}}{{{pīlītuojums|}}}{{#ifeq:{{Infoskreine Volūda/family-color|{{{familycolor|}}}}}|black}}|Pīlītuojums|Regions}}
-{{!}} colspan=2 {{!}} {{#if:{{{creator|}}}{{{pīlītuojums|}}}{{#ifeq:{{Infoskreine Volūda/family-color|{{{familycolor|}}}}}|black}}|{{{pīlītuojums|–}}}|{{{regions|–}}}
-}}
-{{!}}-
-}}
-{{#if:{{{latd|}}}|
-! [[Geographic coordinate system|Coordinates]]
-{{!}} colspan=2 {{!}} <small style="white-space: nowrap">{{coord|{{{latd}}}|{{{latm}}}|{{{latNS}}}|{{{longd}}}|{{{longm}}}|{{{longEW}}}|type:landmark|display=inline}}</small>
-{{!}}-
-}}
-! {{#if:{{{extinct|}}}|[[Extinct language|Language extinction]]|{{#if:{{{lītuotuoji|}}}{{#ifeq:{{Infoskreine Volūda/family-color|{{{familycolor|}}}}}|silver|1}}|Lītuotuoju|Runuotuoju}} skaits}}
-| colspan=2 | {{#if:{{{extinct|}}}|{{{extinct}}}|{{#if:{{{lītuotuoji|}}}{{#ifeq:{{Infoskreine Volūda/family-color|{{{familycolor|}}} }}|silver|1}}|{{{lītuotuoji|–}}}|{{{speakers|–}}}{{#if:{{{Atlas UNESCO country|}}}|{{Atlas UNESCO|{{{Atlas UNESCO country}}}|{{{Atlas UNESCO language|{{PAGENAME}} }}} }} }} }} }}
-|-
-{{#if:{{{reitings|}}}|
-! [[Volūdu saroksts pa runuotuoju skaitam|Reitings]]
-{{!}} colspan=2 {{!}} {{{reitings}}}
-{{!}}-
-}}
-! {{#if:{{{creator|}}}{{{pīlītuojums|}}}{{#ifeq:{{Infoskreine Volūda/family-color|{{{familycolor|}}}}}|black|1}}|Category (purpose)|[[Volūdu saime]]}}
-| colspan=2 style="text-align:left; line-height:100%;" | {{{family|{{{fam1|{{#if:{{{lītuotuoji|}}}{{#ifeq:{{Infoskreine Volūda/family-color|{{{familycolor|}}}}}|silver|1}}|''Unknown''|{{#if:{{{creator|}}}{{{pīlītuojums|}}}|[[constructed language]]|{{Infoskreine Volūda/genetic2|{{{familycolor|Default}}}}}}}}}}}}
-<ul style="line-height:100%; margin-left:15px;padding-left:0"><li>
-{{#if:{{{fam2|}}}
-| {{{fam2}}}<ul style="line-height:100%; margin-left:5px;padding-left:0"><li>{{#if:{{{fam3|}}}
-| {{{fam3}}}<ul style="line-height:100%; margin-left:5px;padding-left:0"><li>{{#if:{{{fam4|}}}
-| {{{fam4}}}<ul style="line-height:100%; margin-left:5px;padding-left:0"><li>{{#if:{{{fam5|}}}
-| {{{fam5}}}<ul style="line-height:100%; margin-left:5px;padding-left:0"><li>{{#if:{{{fam6|}}}
-| {{{fam6}}}<ul style="line-height:100%; margin-left:5px;padding-left:0"><li>{{#if:{{{fam7|}}}
-| {{{fam7}}}<ul style="line-height:100%; margin-left:5px;padding-left:0"><li>{{#if:{{{fam8|}}}
-| {{{fam8}}}<ul style="line-height:100%; margin-left:5px;padding-left:0"><li>{{#if:{{{fam9|}}}
-| {{{fam9}}}<ul style="line-height:100%; margin-left:5px;padding-left:0"><li>{{#if:{{{fam10|}}}
-| {{{fam10}}}<ul style="line-height:100%; margin-left:5px;padding-left:0"><li>{{#if:{{{fam11|}}}
-| {{{fam11}}}<ul style="line-height:100%; margin-left:5px;padding-left:0"><li>{{#if:{{{fam12|}}}
-| {{{fam12}}}<ul style="line-height:100%; margin-left:5px;padding-left:0"><li>{{#if:{{{fam13|}}}
-| {{{fam13}}}<ul style="line-height:100%; margin-left:5px;padding-left:0"><li>{{#if:{{{fam14|}}}
-| {{{fam14}}}<ul style="line-height:100%; margin-left:5px;padding-left:0"><li>{{#if:{{{fam15|}}}
-| {{{fam15}}}<ul style="line-height:100%; margin-left:5px;padding-left:0"><li>{{{pasauka}}}</li></ul>
-| {{{pasauka}}}
-}}</li></ul>| {{{pasauka}}}
-}}</li></ul>| {{{pasauka}}}
-}}</li></ul>| {{{pasauka}}}
-}}</li></ul>| {{{pasauka}}}
-}}</li></ul>| {{{pasauka}}}
-}}</li></ul>| {{{pasauka}}}
-}}</li></ul>| {{{pasauka}}}
-}}</li></ul>| {{{pasauka}}}
-}}</li></ul>| {{{pasauka}}}
-}}</li></ul>| {{{pasauka}}}
-}}</li></ul>| {{{pasauka}}}
-}}</li></ul>| {{{pasauka}}}
-}}</li></ul>| {{{pasauka}}}
-}}</li></ul>
-}}}
-|-
-{{#if:{{{standards|}}}|
-! Standard forms
-{{!}} colspan=2 {{!}} {{{standards}}}
-}}
-|-
-{{#if:{{{stand1|}}}|
-! Standard forms
-{{!}} colspan=2 {{!}} <div>{{{stand1|}}}</div>
-<div>{{{stand2|}}}</div>
-<div>{{{stand3|}}}</div>
-<div>{{{stand4|}}}</div>
-<div>{{{stand5|}}}</div>
-<div>{{{stand6|}}}</div>
-}}
-|-
-{{#if:{{{dialekti|}}}|
-! Dialekti
-{{!}} colspan=2 {{!}} {{{dialekti}}}
-}}
-|-
-{{#if:{{{dia1|}}}|
-! Dialekti
-{{!}} colspan=2 {{!}} <div>{{{dia1|}}}</div>
-<div>{{{dia2|}}}</div>
-<div>{{{dia3|}}}</div>
-<div>{{{dia4|}}}</div>
-<div>{{{dia5|}}}</div>
-<div>{{{dia6|}}}</div>
-<div>{{{dia7|}}}</div>
-<div>{{{dia8|}}}</div>
-<div>{{{dia9|}}}</div>
-<div>{{{dia10|}}}</div>
-<div>{{{dia11|}}}</div>
-<div>{{{dia12|}}}</div>
-<div>{{{dia13|}}}</div>
-<div>{{{dia14|}}}</div>
-<div>{{{dia15|}}}</div>
-<div>{{{dia16|}}}</div>
-<div>{{{dia17|}}}</div>
-<div>{{{dia18|}}}</div>
-<div>{{{dia19|}}}</div>
-<div>{{{dia20|}}}</div>
-}}
-|-
-{{#if:{{{roksts|}}}|
-! [[Roksts (raksteiba)|Roksts]]
-{{!}} colspan=2 {{!}} {{{roksts}}}
-{{!}}-
-}}{{#if:{{{posteriori|}}}|
-! Category (sources)
-{{!}} colspan=2 {{!}} {{{posteriori}}}
-{{!}}-
-}}{{#ifexpr:{{#if:{{{agency|}}}|1|0}} and {{#if:{{{creator|}}}{{{pīlītuojums|}}}{{#ifeq:{{Infoskreine Volūda/family-color|{{{familycolor|Default}}}}}|black|1}}|1|0}}|<nowiki/>
-{{!}}-
-! [[List of language regulators|Regulated by]]
-{{!}} colspan=2 {{!}} {{{agency|''Navā''}}}|{{#if:{{{nation|}}}{{{agency|}}}|<nowiki/>
-{{!}}-
-! colspan=3 style="text-align: center; color: {{#if:{{{creator|}}}{{{pīlītuojums|}}}{{#ifeq:{{Infoskreine Volūda/family-color|{{{familycolor|}}}}}|black|1}}|white|{{{fontcolor|black}}}}}; background-color: {{#if:{{{lītuotuoji|}}}|silver|{{#if:{{{creator|}}}{{{pīlītuojums|}}}|black|{{Infoskreine Volūda/family-color|{{{familycolor|Default}}}}}}}}}" {{!}} Official status
-{{!}}-
-! Official language in
-{{!}} colspan=2 {{!}} {{{nation|''Navā''}}}
-{{!}}-
-{{#if:{{{minority|}}}|! Recognised minority language in
-{{!}} colspan=2 {{!}} {{{minority|''Navā''}}}
-{{!}}-}}
-! [[List of language regulators|Regulated by]]
-{{!}} colspan=2 {{!}} {{{agency|''No official regulation''}}} }} }}
-|-
-! colspan=3 style="text-align: center; color: {{#if:{{{creator|}}}{{{pīlītuojums|}}}{{#ifeq:{{Infoskreine Volūda/family-color|{{{familycolor|}}} }}|black|1}}|white|{{{fontcolor|black}}} }}; background-color: {{#if:{{{creator|}}}{{{pīlītuojums|}}}|black|{{#if:{{{lītuotuoji|}}}|silver|{{Infoskreine Volūda/family-color|{{{familycolor|Default}}} }} }} }}" | Volūdys kodi
-|-
-! [[ISO 639-1]]
-| colspan=2 | {{#if:{{{iso1|}}}|<tt>{{{iso1}}}</tt>|et}}
-|-
-! [[ISO 639-2]]
-| colspan="{{#if:{{{iso2b|}}}{{{iso2t|}}}|1|2}}" | <tt>{{#if:{{{iso2b|}}}{{{iso2t|}}}
-  |{{{iso2b|{{{iso2|–}}}}}} (B)
-  |{{#if:{{{lītuotuoji|}}}{{#ifeq:{{Infoskreine Volūda/family-color|{{{familycolor|}}}}}|silver|1}}
-   |{{{iso2|sgn}}}
-   |{{
-    #if:{{{creator|}}}{{{pīlītuojums|}}}{{#ifeq:{{Infoskreine Volūda/family-color|{{{familycolor|}}}}}|black|1}}
-    |{{{iso2|art}}}
-    |{{{iso2|–}}}}}}}}}</tt>{{
-     #if:{{{iso2b|}}}{{{iso2t|}}}
-     |{{Infoskreine Volūda/terminological|{{{iso2t|{{{iso2|}}}}}}}}}}{{#if:{{{SIL|}}}
-  |{{Infoskreine Volūda/SIL14|{{{SIL|}}}}}}}{{#if:{{{sil|}}}
-  |{{Infoskreine Volūda/SIL14|{{{sil|}}} }} }}
-|-
-! [[ISO 639-3]]
-| colspan=2 | {{#if:{{{iso3|}}}
-   |{{#ifeq:{{{iso3|}}}|navā|''Navā''|<tt>[http://www.sil.org/iso639-3/documentation.asp?id={{{iso3}}} {{{iso3}}}]</tt> {{#if:{{{lc1|}}}| – [[Macrolanguage]]}} {{{iso3comment|}}}}}|{{#if:{{{lc1|}}}| |–}}}}{{#ifexpr:{{#if:{{{lc1|}}}|1|0}} and {{#if:{{{lc2|}}}|1|0}}|{{#if:{{{iso3|}}}|<br />individual codes|{{#if:{{{lc3|}}}|variously|either}}}}:{{Infoskreine Volūda/codelist
-|{{{lc1|}}}|{{{ld1|}}}|{{{ll1|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc2|}}}|{{{ld2|}}}|{{{ll2|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc3|}}}|{{{ld3|}}}|{{{ll3|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc4|}}}|{{{ld4|}}}|{{{ll4|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc5|}}}|{{{ld5|}}}|{{{ll5|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc6|}}}|{{{ld6|}}}|{{{ll6|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc7|}}}|{{{ld7|}}}|{{{ll7|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc8|}}}|{{{ld8|}}}|{{{ll8|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc9|}}}|{{{ld9|}}}|{{{ll9|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc10|}}}|{{{ld10|}}}|{{{ll10|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc11|}}}|{{{ld11|}}}|{{{ll11|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc12|}}}|{{{ld12|}}}|{{{ll12|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc13|}}}|{{{ld13|}}}|{{{ll13|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc14|}}}|{{{ld14|}}}|{{{ll14|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc15|}}}|{{{ld15|}}}|{{{ll15|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc16|}}}|{{{ld16|}}}|{{{ll16|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc17|}}}|{{{ld17|}}}|{{{ll17|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc18|}}}|{{{ld18|}}}|{{{ll18|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc19|}}}|{{{ld19|}}}|{{{ll19|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc20|}}}|{{{ld20|}}}|{{{ll20|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc21|}}}|{{{ld21|}}}|{{{ll21|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc22|}}}|{{{ld22|}}}|{{{ll22|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc23|}}}|{{{ld23|}}}|{{{ll23|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc24|}}}|{{{ld24|}}}|{{{ll24|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc25|}}}|{{{ld25|}}}|{{{ll25|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc26|}}}|{{{ld26|}}}|{{{ll26|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc27|}}}|{{{ld27|}}}|{{{ll27|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc28|}}}|{{{ld28|}}}|{{{ll28|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc29|}}}|{{{ld29|}}}|{{{ll29|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc30|}}}|{{{ld30|}}}|{{{ll30|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc31|}}}|{{{ld31|}}}|{{{ll31|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc32|}}}|{{{ld32|}}}|{{{ll32|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc33|}}}|{{{ld33|}}}|{{{ll33|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc34|}}}|{{{ld34|}}}|{{{ll34|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc35|}}}|{{{ld35|}}}|{{{ll35|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc36|}}}|{{{ld36|}}}|{{{ll36|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc37|}}}|{{{ld37|}}}|{{{ll37|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc38|}}}|{{{ld38|}}}|{{{ll38|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc39|}}}|{{{ld39|}}}|{{{ll39|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc40|}}}|{{{ld40|}}}|{{{ll40|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc41|}}}|{{{ld41|}}}|{{{ll41|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc42|}}}|{{{ld42|}}}|{{{ll42|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc43|}}}|{{{ld43|}}}|{{{ll43|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc44|}}}|{{{ld44|}}}|{{{ll44|}}}}}{{Infoskreine Volūda/codelist
-|{{{lc45|}}}|{{{ld45|}}}|{{{ll45|}}} }}
- |{{#if:{{{lc1|}}}|{{#if:{{{iso3|}}}|<br />individual code:<br />}}<tt>[http://www.sil.org/iso639-3/documentation.asp?id={{{lc1}}} {{{lc1}}}]</tt> – {{#if:{{{ll1|}}}|{{#ifeq:{{{ll1|}}}|navā|{{{ld1|}}}|[[{{{ll1}}}|{{{ld1|}}}]]}}|[[{{{ld1|}}}]]}} }} }}
-|-
-! [[Linguasphere Observatory|Linguasphere]]
-| colspan=2 | <tt>{{#if:{{{lingua|}}}|{{{lingua}}}|–}}</tt>
-|-
-{{#if:{{{map|}}}|
-{{!}} colspan=3 style="vertical-align: middle; padding-top: 5px" {{!}} {{{map|}}}
-{{!}}-
-}}
-{{Infoskreine Volūda/{{#if:{{{lītuotuoji|}}}{{#ifeq:{{Infoskreine Volūda/family-color|{{{familycolor|}}}}}|silver|1}}|signnotice|{{{notice|IPA}}}}}|{{#if:{{{IPAChartEng|}}}|IPAChartEng=1}} }}
-|}
 
-'''Igauņu volūda''' pīdar Suomugru volūdu saimei, jei irā radnesteiga suomu, līvu, votu, samu, ungaru i cytom volūdom, tok navā leidzeiga sovu sābru latgaļu, latvīšu, krīvu i švedu volūdom, kurys pīdar indoeuropīšu volūdu saimei. Igauņu volūda irā [[Igauneja|Igaunejis Republikys]] i Europys Savīneibys oficialuo volūda irā. Igauņu, suomu, ungaru i maltīšu volūdys irā vīneiguos vaļsteibys volūdys Europys Savīneibā, kas napīdar pi Indoeuropīšu volūdu saimys. Pa 2000 goda datim, tei irā dzymtuo volūda 83,4% Igaunejis dzeivuotuoju.
+'''Igauņu volūda''' — volūda, kas pīdar suomugru volūdu saimei, jei irā radnesteiga suomu, līvu, votu, samu, ungaru i cytom volūdom, tok navā leidzeiga sovu sābru latgaļu, latvīšu, krīvu i švedu volūdom, kurys pīdar indoeuropīšu volūdu saimei. Igauņu volūda irā [[Igauneja|Igaunejis Republikys]] i Europys Savīneibys oficialuo volūda irā. Igauņu, suomu, ungaru i maltīšu volūdys irā vīneiguos vaļsteibys volūdys Europys Savīneibā, kas napīdar pi Indoeuropīšu volūdu saimys. Pa 2000 goda datim, tei irā dzymtuo volūda 83,4% Igaunejis dzeivuotuoju.
 
 {{Nadabeigts rakstīņs}}
 
