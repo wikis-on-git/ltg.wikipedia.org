@@ -3,8 +3,8 @@
 == Elementi i jūs atributi ==
 
 Pomota vīneiba HTML volūdā irā elements. Kai ari [[XML|XML volūdā]], HTML elementam var byut atributi i īkšpuse. Īkšpusē var byut teksts ci cyti elementi. Sevkuram elementa atributam ir sovs nūsaukums i nūzeime. Atributi bīži puormej nūklusātuos vierteibys. Pīvadumam, HTML fragments: 
-malns<'''span''' style="color:red"><'''strong'''>R</'''strong'''> sorkons</'''font'''> irā 2 elementi.
-Vīns nu elementim ('''font''') puorslādz kruosu nu nūklusātuos (malnys) iz sorkonu. Ituo elementa īkšpusē asūšais elements ('''strong'''), puormej fontu nu nūklusāta iz trakna.
+ malns<'''span''' style="color:red"><'''strong'''>R</'''strong'''> sorkons</'''font'''> 
+irā 2 elementi. Vīns nu elementu ('''font''') puorslādz kruosu nu nūklusātuos (malnys) iz sorkonu. Ituo elementa īkšpusē asūšais elements ('''strong'''), puormej fontu nu nūklusāta iz trakna.
 Pyrmais elements ir ar vīnu atributu ('''style''') i ituo atributa vierteibu '''color:red'''. Cytam elementam atributu navā.
 
 HTML kodā atributu vierteibys īsokoms likt pēdeņuos (") ci apostrofūs ('), bet HTML 4.01 standarts tū naprasa.
