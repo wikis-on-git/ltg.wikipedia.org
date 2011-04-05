@@ -416,7 +416,7 @@
 | rowspan=2 | 
 | rowspan=2 | 
 |----- align=center
-| rowspan=11 bgcolor=#fb9a94 | <font size=+1>
+| rowspan=11 bgcolor=#FF9936 | <font size=+1>
 [[Proterozojs|P<br />R<br />O<br />T<br />E<br />R<br />O<br />Z<br />O<br />J<br />S]]</font>
 | rowspan=4 bgcolor=#feb343 | <big>[[Neoproterozojs]]</big>
 | colspan=1 bgcolor=#feb343 |             [[Ediakars]]
@@ -459,57 +459,57 @@
 | colspan=1 valign=bottom | 1600*
 | colspan=1 valign=bottom | -
 |----- align=center
-| rowspan=4 bgcolor=#f74373 |<big>[[Paleoproterezojs]]</big>
-| colspan=1 bgcolor=#f74373 |            [[Staterejs]]
-| colspan=2 bgcolor=#f74373 |
+| rowspan=4 bgcolor=#FF9966 |<big>[[Paleoproterezojs]]</big>
+| colspan=1 bgcolor=#FF9966 |            [[Staterejs]]
+| colspan=2 bgcolor=#FF9966 |
 | colspan=1 valign=bottom | 1800*
 | colspan=1 valign=bottom | -
 | 
 | rowspan=6 | 
 |----- align=center
-| colspan=1 bgcolor=#f74373 |            [[Orosirejs]]
-| colspan=2 bgcolor=#f74373 |
+| colspan=1 bgcolor=#FF9966 |            [[Orosirejs]]
+| colspan=2 bgcolor=#FF9966 |
 | colspan=1 valign=bottom | 2050*
 | colspan=1 valign=bottom | -
 | rowspan=3 |
 |----- align=center
-| colspan=1 bgcolor=#f74373 |            [[Ryasejs]]
-| colspan=2 bgcolor=#f74373 |
+| colspan=1 bgcolor=#FF9966 |            [[Ryasejs]]
+| colspan=2 bgcolor=#FF9966 |
 | colspan=1 valign=bottom | 2300*
 | colspan=1 valign=bottom | -
 |----- align=center
-| colspan=1 bgcolor=#f74373 |            [[Siderejs]]
-| colspan=2 bgcolor=#f74373 |
+| colspan=1 bgcolor=#FF9966 |            [[Siderejs]]
+| colspan=2 bgcolor=#FF9966 |
 | colspan=1 valign=bottom | 2500*
 | colspan=1 valign=bottom | -
 |----- align=center
-| rowspan=4 bgcolor=#f0027f | <font size=+1>
+| rowspan=4 bgcolor=#99adac | <font size=+1>
 [[Arhajs|A<br />R<br />H<br />A<br />J<br />S]]</font>
-| bgcolor=#f99bc5 colspan=2 |<big>[[Neoarhajs]]</big>
-| colspan=2 bgcolor=#f99bc5 | &nbsp;
+| bgcolor=#cbcdc8 colspan=2 |<big>[[Neoarhajs]]</big>
+| colspan=2 bgcolor=#cbcdc8 | &nbsp;
 | colspan=1 valign=bottom | 2800
 | colspan=1 valign=bottom | -
 | rowspan=4 | [[Bakterejis]]&nbsp;; [[fotosiņteze]] ([[Cianbakterejis]])&nbsp;;<br />metana pagaisšona CH<sub>4</sub>&nbsp;;<br />
 |----- align=center
-| bgcolor=#ea66b1 colspan=2 | <big>[[Mezoarhajs]]</big>
-| colspan=2 bgcolor=#ea66b1 | &nbsp;
+| bgcolor=#b2b5af colspan=2 | <big>[[Mezoarhajs]]</big>
+| colspan=2 bgcolor=#b2b5af | &nbsp;
 | colspan=1 valign=bottom | 3200
 | colspan=1 valign=bottom | -
 |----- align=center
-| bgcolor=#f4449f colspan=2 | <big>[[Paleoarhajs]]</big>
-| colspan=2 bgcolor=#f4449f | &nbsp;
+| bgcolor=#999791 colspan=2 | <big>[[Paleoarhajs]]</big>
+| colspan=2 bgcolor=#999791 | &nbsp;
 | colspan=1 valign=bottom | 3600
 | colspan=1 valign=bottom | -
 | rowspan=2 | &nbsp;
 |----- align=center
-| bgcolor=#da027f colspan=2 | <big>[[Eoarhajs]]</big>
-| colspan=2 bgcolor=#da027f | &nbsp;
+| bgcolor=#809090 colspan=2 | <big>[[Eoarhajs]]</big>
+| colspan=2 bgcolor=#809090 | &nbsp;
 | colspan=1 valign=bottom | 4000
 | colspan=1 valign=bottom | -
 |----- align=center
-| bgcolor=#d04040 | <font size=+1>
+| bgcolor=#808890 | <font size=+1>
 [[Aydejs|A<br />Y<br />D<br />E<br />J<br />S]]</font>
-| bgcolor=#d04040 colspan=4 | &nbsp;
+| bgcolor=#808890 colspan=4 | &nbsp;
 | colspan=1 valign=bottom | 4600
 | colspan=1 valign=bottom | -
 | colspan=2| Okeanu atrasme, atmosfera sador nu  N<sub>2</sub>, CO<sub>2</sub> i CH<sub>4</sub>.
