@@ -1,4 +1,4 @@
-'''IP MPLS''' aba '''IP/MPLS''' ({{vol-en|Internet Protocol / Multi Protocol Label Switching}}), aba '''MPLS''' (anglīšu: ''Multi Protocol Label Switching'') — irā standartizāta tehnologeja, kura ļaun padreizynuot [[Datu tekme|datu tekmi]] teiklūs i atvīglynuot juos vaļdeišonu.
+'''IP MPLS''' aba '''IP/MPLS''' ({{vol-en|Internet Protocol / Multi Protocol Label Switching}}), aba '''MPLS''' (anglīšu: ''Multi Protocol Label Switching'') irā standartizāta tehnologeja, kura ļaun padreizynuot [[Datu tekme|datu tekmi]] teiklūs i atvīglynuot juos vaļdeišonu.
 
 Lītojūt MPLS, zynomai [[datu pakets|datu paketu]] vērtinei irā sataisoms specials ceļš, kuru atpazeist sevkurā paketā vydā asūša aizzeime. Tai sasataupa laiks, kurs vajadzeigs, kab [[maršrutātivs]] atrostu cyta mozga adresu i varātu da juo tuoļuok nūsyuteit paketu. Tehnologeja MPLS daudziprotokoleiga, jei dora ar IP, ATM i FR teikla [[protokols|protokolim]]. 
 
@@ -10,7 +10,7 @@ Deļ itūs īmešļu MPLS tehnologeja irā līteiga teiklim, pa kurim suoc īt v
 
 Eksperti taipoš skaituos ar faktu, ka lītojūt IP-MPLS tehnologeju [[VPN]] taiseišonā, navā vajadzeibys lītuot [[šifriešonys shemys]] (pīvadumam, [[IPSec]]).
 
-[[Kategoreja:Datorzineiba]
+[[Kategoreja:Datorzineiba]]
 [[Kategoreja:Škārsteiklys]]
 
 [[en:Multiprotocol Label Switching]]
