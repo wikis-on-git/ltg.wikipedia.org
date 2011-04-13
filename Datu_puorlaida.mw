@@ -1,4 +1,4 @@
-'''Datu puorlaida''' (anglīšu: ''data transmission''; krīvu: ''передача данных''; latvīšu: ''datu pārraide'') — [[Datoreiba|datoreibys]] (informacejis tehnologeju) i telekomunikaceju atzarēs lītojams process, kurymā informacejis vīneibys ([[Bits|biti]] voi [[Baits|baiti]]) irā syutomys nu vīnys ītaisis iz cytu, damārojūt vysaidys datu puorlaidys [[Datu puorlaida#Datu puorlaidys tehnologejis|tehnologejis]].
+'''Datu puorlaida''' ({{lang-en|data transmission}}) — [[Datoreiba|datoreibys]] (informacejis tehnologeju) i telekomunikaceju atzarēs lītojams process, kurymā informacejis vīneibys ([[Bits|biti]] voi [[Baits|baiti]]) irā syutomys nu vīnys ītaisis iz cytu, damārojūt vysaidys datu puorlaidys [[Datu puorlaida#Datu puorlaidys tehnologejis|tehnologejis]].
 
 Datu puorlaida var byut, pīvadumam:
 * datu puorsyute nu datora cītuo diska iz mobilū telefonu;
@@ -40,11 +40,14 @@ Daslāguma tehnologejis:
 * infrasorkonī spaiti
 
 Standartizātys datu grupiešonys i kanalu taiseišonys tehnologejis:
-* ADSL;
-* DSL;
-* MPLS, IP MPLS;
-* Wi-Fi;
-* WiMax
+* [[ADSL]];
+* [[DSL]];
+* MPLS, [[IP MPLS]];
+* [[Wi-Fi]];
+* [[WiMax]]
+
+[[Kategoreja:Tehnologeja]]
+[[Kategoreja:Datorzineiba]]
 
 [[ar:نقل البيانات]]
 [[de:Datenübertragung]]
