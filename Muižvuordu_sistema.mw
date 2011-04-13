@@ -1,7 +1,9 @@
-'''Muižvuordu sistema''' ([[:en:DNS|DNS]], ''Domain name system'') irā datorim voi logiskajim resursim daškierti tekstuali adresi. Pīvadumam, <code>latgola.lv</code>, <code>rus.delfi.lv</code>, i.t.t. Jūs lītoj vītā numeriskūs IP-adresu (pīv., 159.148.108.128) partū, ka IP adresi gryušuok īguodojami. Muižvuordi atmej IP-adresus; var lītuot i vīnus, i ūtrus. Pyrmuo pakuopīņa muižvuordus, rokstomus DNS vuordu beiguos (<code>lv</code>, <code>lt</code>, <code>ru</code>, <code>com</code>, <code>edu</code> i ct.), privatpersona navar registrēt. Ūtruo pakuopīņa muižvuordus (<code>folklora.lv</code>, <code>folklore.ee</code> i.t.t.), privatpersona var registrēt par moksu (vysucieškuok nazcik desmišu latu par godu), i trešuo pakuopīņa muižvuordi, kurus sevkotrys ūtruo pakuopīņa DNS vuorda sovinīks var registrēt bez moksys.
+'''Muižvuordu sistema''' ([[:en:DNS|DNS]], ''Domain name system'') irā [[dators|datorim]] voi logiskajim resursim daškierti tekstuali adresi. Pīvadumam, <code>latgola.lv</code>, <code>rus.delfi.lv</code>, i.t.t. Jūs lītoj vītā numeriskūs [[IP-adress|IP-adresu]] (pīv., 159.148.108.128) partū, ka IP adresi gryušuok īguodojami. Muižvuordi atmej IP-adresus; var lītuot i vīnus, i ūtrus. Pyrmuo pakuopīņa muižvuordus, rokstomus DNS vuordu beiguos (<code>lv</code>, <code>lt</code>, <code>ru</code>, <code>com</code>, <code>edu</code> i ct.), privatpersona navar registrēt. Ūtruo pakuopīņa muižvuordus (<code>folklora.lv</code>, <code>folklore.ee</code> i.t.t.), privatpersona var registrēt par moksu (vysucieškuok nazcik desmišu latu par godu), i trešuo pakuopīņa muižvuordi, kurus sevkotrys ūtruo pakuopīņa DNS vuorda sovinīks var registrēt bez moksys.
 
 == Resursi ==
 [http://latgola.lv/servisi/mvuordi/ Muižvuordi portalā latgola.lv]
+
+[[Kategoreja:Škārsteiklys]]
 
 [[af:Domeinnaamstelsel]]
 [[ar:نظام أسماء النطاقات]]
