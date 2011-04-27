@@ -42,9 +42,9 @@ Nu 2011 gods jaunagods mieneša 3 dīnys [[Latveja|Latvejis Republika]] irā pad
 ! Nūvods
 ! Nūvoda mīsti i pogosti
 |-
-|align=center| 1
-| [[Ādažu nūvods]]
-|
+|align=center rowspan=1| 1
+|rowspan=1| [[Ādažu nūvods]]
+| [[Ādažu pogosts]]
 |-
 |align=center rowspan=4| 2
 |rowspan=4| [[Aglyunys nūvods]]
@@ -100,9 +100,9 @@ Nu 2011 gods jaunagods mieneša 3 dīnys [[Latveja|Latvejis Republika]] irā pad
 |-
 | [[Staicelis pogosts]]
 |-
-|align=center| 7
-| [[Alšvangys nūvods]]
-|
+|align=center rowspan=1| 7
+|rowspan=1| [[Alšvangys nūvods]]
+| [[Alšvangys pogosts]]
 |-
 |align=center rowspan=7| 8
 |rowspan=7| [[Aucis nūvods]]
@@ -133,9 +133,9 @@ Nu 2011 gods jaunagods mieneša 3 dīnys [[Latveja|Latvejis Republika]] irā pad
 |-
 | [[Solys pogosts (Babeitis nūvods)|Solys pogosts]]
 |-
-|align=center| 10
-| [[Baļtinovys nūvods]]
-|
+|align=center rowspan=1| 10
+|rowspan=1| [[Baļtinovys nūvods]]
+| [[Baļtinovys pogosts]]
 |-
 |align=center rowspan=9| 11
 |rowspan=9| [[Bauskis nūvods]]
@@ -352,6 +352,84 @@ Nu 2011 gods jaunagods mieneša 3 dīnys [[Latveja|Latvejis Republika]] irā pad
 | [[Penkulis pogosts]]
 |-
 | [[Zebrinis pogosts]]
+|-
+|}
+
+==== E ====
+{| class="wikitable"
+! N. p. k.
+! Nūvods
+! Nūvoda mīsti i pogosti
+|-
+|align=center rowspan=3| 26
+|rowspan=3| [[Engurys nūvods]]
+| [[Engurys pogosts]]
+|-
+| [[Lopmežcīma pogosts]]
+|-
+| [[Smuordis pogosts]]
+|-
+|align=center rowspan=3| 27
+|rowspan=3| [[Ereļu nūvods]]
+| [[Ereļu pogosts]]
+|-
+| [[Jumurdys pogosts]]
+|-
+| [[Sausniejis pogosts]]
+|-
+|}
+
+==== G ====
+{| class="wikitable"
+! N. p. k.
+! Nūvods
+! Nūvoda mīsti i pogosti
+|-
+|align=center rowspan=1| 27
+|rowspan=1| [[Garkaļnis nūvods]]
+| [[Garkaļnis pogosts]]
+|-
+|align=center rowspan=5| 28
+|rowspan=5| [[Gruobina nūvods]]
+| [[Bartys pogosts]]
+|-
+| [[Gaveizis pogosts]]
+|-
+| [[Gruobins|Gruobina mīsts]]
+|-
+| [[Gruobina  pogosts]]
+|-
+| [[Medzis pogosts]]
+|-
+|align=center rowspan=14| 29
+|rowspan=14| [[Guļbinis nūvods]]
+| [[Beļovys pogosts]]
+|-
+| [[Daukstu pogosts]]
+|-
+| [[Druvīnys pogosts]]
+|-
+| [[Galgovskys pogosts]]
+|-
+| [[Guļbine|Guļbinis mīsts]]
+|-
+| [[Jaunguļbinis pogosts]]
+|-
+| [[Lajis pogosts]]
+|-
+| [[Litinis pogosts]]
+|-
+| [[Lyzuma pogosts]]
+|-
+| [[Leiguo pogosts]]
+|-
+| [[Rankys pogosts]]
+|-
+| [[Stuomerinis pogosts]]
+|-
+| [[Strodu pogosts]]
+|-
+| [[Tirzys pogosts]]
 |-
 |}
 
