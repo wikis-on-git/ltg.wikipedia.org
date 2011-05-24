@@ -1,26 +1,25 @@
-{| border="1" cellpadding="2" cellspacing="0" align="right" width="300"
-|----- align="center"
-! colspan="2" bgcolor="#DDDDDD" | <big>Latgaļu volūda</big>
-|-----
-| Volūdu lītoj: || [[Latgola]], [[Sieleja]], [[Vydzeme]] [[Latveja|Latvejā]], [[Sibirs]] i [[Baškireja]] [[Krīveja|Krīvejā]], drupeit i [[Amerikys Saškierstuos Vaļsteibys|ASV]]
-|-----
-| Runuotuoju skaits: || ~200 tyukstūšas
-|-----
-| valign="top" | Volūdu saime: ||
-[[Indoeuropīšu volūdu saime|Indoeuropīšu]]<br />
-&nbsp;[[Baltu volūdys]]<br />
-'''[[Latgaļu volūda]]'''
-|-----
-! colspan="2" bgcolor="#DDDDDD" | Vaļsteibys volūda
-|-----
-| Vaļsteibys volūda: || valign="top" | -
-|-----
-! colspan="2" bgcolor="#DDDDDD" | Volūdys kodi
-|-----
-| ISO 639-1: || -
-|-----
-| ISO 639-3: || ltg
-|}
+{{Infoskreine Volūda
+ |name          = Latgaļu volūda
+ |nativename    = latgaļu
+ |pronunciation = 
+ |states        = Latveja, Krīveja
+ |speakers      = 150-200 tyukstūšas<ref name="weber">[http://www.unesco.org/culture/languages-atlas/en/atlasmap/language-id-376.html Pasauļa volūdu atlants]</ref>
+|iso1          = 
+ |iso2          = 
+ |iso2b         = 
+ |iso2t         = 
+ |iso3          = ltg
+ |familycolor   = Indoeuropīšu
+ |fam1          = [[Indoeuropīšu volūdys|Indoeuropīšu]]
+ |fam2          = Baltu-slavu
+ |fam3          = [[Baltu volūdys|Baltu]]
+ |fam4          = Reitu baltu
+ |fam5          = 
+ |script        = [[Latiņu alfabets|Latiņu]] ([[Latgaļu alfabets|latgaļu variants]])
+ |rank          = 
+ |nation        = -
+ |agency        = oficiala regulatora navā
+}}
 '''Latgaļu volūda''' irā vīna nu baltu volūdu.
 
 == Gramatika ==
@@ -479,6 +478,9 @@ DAUDZSKAITS
 
 == Verīs taipoš ==
 * [[Latgaļu volūda ISO standartūs]]
+
+== Nūruodis i olūti ==
+{{Nūruodis}}
 
 {{Nadabeigts rakstīņs}}
 
