@@ -15,7 +15,6 @@ Niule latgaļu volūdā: [[Seviškuo:Statistics|'''{{NUMBEROFARTICLES}}''']] {{p
 |valign="top" |<small>
 * [[Vikipedeja:Dūmu meits|<font color="green">'''Dūmu meits'''</font>]]
 * [[Vikipedeja:Administraceja|Administraceja]]
-* [[Vikipedeja:Rakstīņa mekliešona|Rakstīņa mekliešona]]
 * [[Vikipedeja:Vikipedejis termini|Vikipedejis termini]]</small>
 |}
 |width=10%| 
@@ -32,6 +31,18 @@ Vierteigs rakstīņs
 | style="; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%" | {{Vierteigs rakstīņs}}
 |-
 <!--------------------------------
+Izalaseits atvaigs
+---------------------------------->
+! style="background-color: #F7CADA; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #EF98B7; text-align: left;  padding-left: 7px; padding-right: 3px; -moz-border-radius:10px" | <div style="float:left;">[[Fails:Nuvola filesystems camera.png|20px]] Izalaseits atvaigs</div><div style="float:right;">[[Fails:Wbar pink.jpg]]</div>
+|- align="center" style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%"
+|[[Fails:Ilzas ezers 1999-08-17.jpg|300px]]
+<small>[[Iļdzs]] — azars Aglyunys nūvodā, kura pošleluo dzilīne dasnēdz 46 metrus.</small>
+<div style="float:right; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 80%; padding:0 .5em 0 2em">''[[Vikipedeja:Izalaseits atvaigs|arhivs]]''</div>
+|}
+|class="MainPageBG" style="border:1px solid #cedff2; background-color:#ffffff; vertical-align:top; -moz-border-radius:10px"|
+{| width="100%" cellpadding="2" cellspacing="3" style="vertical-align: top; background-color:#ffffff; -moz-border-radius:10px;"
+|-
+<!--------------------------------
 Mieneša aizdavums
 ---------------------------------->
 ! style="background-color: #F0F3CD; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #DDDDA4; text-align: left;  padding-left: 7px; padding-right: 3px; -moz-border-radius:10px" | <div style="float:left;">[[Fails:Disambigua compass.svg|20px]] Mieneša aizdavums</div><div style="float:right;">[[Fails:Wbar green3.jpg]]</div>
@@ -39,42 +50,12 @@ Mieneša aizdavums
 | style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%" | {{Mieneša aizdavums}}
 |-
 <!--------------------------------
-Sastoti jaunu puslopu latgaliskai
----------------------------------->
-! style="background-color: #DCF4CC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #9EE072; text-align: left; padding-left: 7px; padding-right: 3px; -moz-border-radius:10px" | <div style="float:left;">[[Fails:Evolution-tasks-old.svg|20px]] Sastoti jaunu puslopu latgaliskai</div><div style="float:right;">[[Fails:Wbar green2.jpg]]</div>
-|-
-| style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%" | 
-<inputbox>
- type        = create
- width       = 90%
- bgcolor     = #ffffff
- preload     = Template:Standard content for new page
- editintro   = Template:Instructions
- default     = 
- buttonlabel = Sastateit rakstīni
-</inputbox>
-|}
-|class="MainPageBG" style="border:1px solid #cedff2; background-color:#ffffff; vertical-align:top; -moz-border-radius:10px"|
-{| width="100%" cellpadding="2" cellspacing="3" style="vertical-align: top; background-color:#ffffff; -moz-border-radius:10px;"
-|-
-<!--------------------------------
-Izalaseits atvaigs
----------------------------------->
-! style="background-color: #F7CADA; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #EF98B7; text-align: left;  padding-left: 7px; padding-right: 3px; -moz-border-radius:10px" | <div style="float:left;">[[Fails:Nuvola filesystems camera.png|20px]] Izalaseits atvaigs</div><div style="float:right;">[[Fails:Wbar pink.jpg]]</div>
-|- align="center" style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%"
-|[[Fails:Ilzas ezers pie Dagdas - Aglonas ceļa.jpg|300px]]
-<small>[[Iļdzs]] - azars Aglyunys nūvodā, kura pošleluo dzilīne dasnēdz 46 metrus.
-</small> <div style="float:right; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 80%; padding:0 .5em 0 2em">''[[Vikipedeja:Izalaseits atvaigs|arhivs]]''</div>
-|-
-<!--------------------------------
 Kategorejis
 ---------------------------------->
 ! style="background-color: #CEF2E8; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #8BE0C9; text-align: left;  padding-left: 7px; padding-right: 3px; -moz-border-radius:10px" | <div style="float:left;">[[Fails:Portal.svg|20px]] Kategorejis</div><div style="float:right;">[[Fails:wbar green1.jpg]]</div>
 |-
 | style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%" | 
-<div class="references-small" style="height:275px; overflow:auto; padding:3px;" >
-<categorytree>Category:Pamatkategorejis</categorytree>
-</div>
+<div class="references-small" style="height:275px; overflow:auto; padding:3px;"><categorytree>Kategoreja:Pamatkategorejis</categorytree></div>
 |}
 |}
 <!--------------------------------
