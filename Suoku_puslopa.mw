@@ -37,22 +37,6 @@ Mieneša aizdavums
 ! style="background-color: #F0F3CD; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #DDDDA4; text-align: left;  padding-left: 7px; padding-right: 3px; -moz-border-radius:10px" | <div style="float:left;">[[Fails:Disambigua compass.svg|20px]] Mieneša aizdavums</div><div style="float:right;">[[Fails:Wbar green3.jpg]]</div>
 |-
 | style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%" | {{Mieneša aizdavums}}
-|-
-<!--------------------------------
-Sastoti jaunu puslopu latgaliskai
----------------------------------->
-! style="background-color: #DCF4CC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #9EE072; text-align: left; padding-left: 7px; padding-right: 3px; -moz-border-radius:10px" | <div style="float:left;">[[Fails:Evolution-tasks-old.svg|20px]] Sastoti jaunu puslopu latgaliskai</div><div style="float:right;">[[Fails:Wbar green2.jpg]]</div>
-|-
-| style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%" | 
-<inputbox>
- type        = create
- width       = 90%
- bgcolor     = #ffffff
- preload     = Template:Standard content for new page
- editintro   = Template:Instructions
- default     = 
- buttonlabel = Sastateit rakstīni
-</inputbox>
 |}
 |class="MainPageBG" style="border:1px solid #cedff2; background-color:#ffffff; vertical-align:top; -moz-border-radius:10px"|
 {| width="100%" cellpadding="2" cellspacing="3" style="vertical-align: top; background-color:#ffffff; -moz-border-radius:10px;"
@@ -65,16 +49,6 @@ Izalaseits atvaigs
 |[[Fails:Raznas ezers.JPG|300px]]
 <small>[[Rāznys nacionalais parks]] - pošu leluo dobys sorgojamuo teritoreja Latgolā, visapleik [[Rāzna|Rāznys]] azaram.
 </small> <div style="float:right; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 80%; padding:0 .5em 0 2em">''[[Vikipedeja:Izalaseits atvaigs|arhivs]]''</div>
-|-
-<!--------------------------------
-Kategorejis
----------------------------------->
-! style="background-color: #CEF2E8; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #8BE0C9; text-align: left;  padding-left: 7px; padding-right: 3px; -moz-border-radius:10px" | <div style="float:left;">[[Fails:Portal.svg|20px]] Kategorejis</div><div style="float:right;">[[Fails:wbar green1.jpg]]</div>
-|-
-| style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%" | 
-<div class="references-small" style="height:275px; overflow:auto; padding:3px;" >
-<categorytree>Category:Pamatkategorejis</categorytree>
-</div>
 |}
 |}
 <!--------------------------------
