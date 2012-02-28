@@ -1,24 +1,24 @@
 {{Infoskreine Latvejis nūvods
-| pasauka                 = Malīnis pogosts
+| pasauka                 = Līpnys pogosts
 | zemislopa               = 
 | zemislopa2              = 
 | zemislopa2_aprakstejums = 
 | gerba_atvaigs           = 
-| gerba_pasauka           = Malīnis pogosta gerbs
+| gerba_pasauka           = Līpnys pogosta gerbs
 | karūga_atvaigs          = 
-| karūga_pasauka          = Malīnis pogosta karūgs
+| karūga_pasauka          = Līpnys pogosta karūgs
 | nūvods                  = Nūvods
 | nūvoda_pasauka          = Olyuksnys nūvods
-| centrys                 = Brenci
-| pluots                  = 55.42
-| dzeivuotuoju_skaits     = 447<ref>[http://www.pmlp.gov.lv/lv/statistika/dokuments/2010/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf Latvejis dzeivuotuoju skaits pošvoldūs 01.07.2010.]</ref>
+| centrys                 = Līpna
+| pluots                  = 280.57
+| dzeivuotuoju_skaits     = 991<ref>[http://www.pmlp.gov.lv/lv/statistika/dokuments/2010/ISPV_Pasvaldibas_iedzivotaju_skaits_pagasti.pdf Latvejis dzeivuotuoju skaits pošvoldūs 01.07.2010.]</ref>
 | dzeivuotuoji_gods       = 2010
-| bīzeiba                 = {{#expr: 447 / 55.42 round 1}}
-| īstateits               = 1945
+| bīzeiba                 = {{#expr: 991 / 280.57 round 1}}
+| īstateits               = 
 | teiklavīta              = 
 }}
 
-'''Malīnis pogosts''' irā [[Olyuksnys nūvods|Olyuksnys nūvoda]] teritoriskais padalīņs [[Latgola|Latgolā]]. Pogosta centrys - Brenci.
+'''Līpnys pogosts''' irā [[Olyuksnys nūvods|Olyuksnys nūvoda]] teritoriskais padalīņs [[Latgola|Latgolā]]. Pogosta centrys Līpnā.
 
 == Nūruodis ==
 {{Nūruodis}}
@@ -27,4 +27,4 @@
 
 {{Olyuksnys nūvods}}
 
-[[lv:Malienas pagasts]]
+[[lv:Liepnas pagasts]]
