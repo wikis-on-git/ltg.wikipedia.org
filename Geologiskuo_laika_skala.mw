@@ -12,9 +12,9 @@
 | [[Milijons godu|Milij.g.]] ||±
 |----- align=center
 | rowspan=101 bgcolor=#9ad9e5 |
-<font size=+1> [[Fanerozojs|F<br />A<br />N<br />E<br />R<br />O<br />Z<br />O<br />J<br />S]]</font>
+<font size=+1> [[Fanerozojs|F<br>A<br>N<br>E<br>R<br>O<br>Z<br>O<br>J<br>S]]</font>
 |----- align=center
-| rowspan=5 bgcolor=#fafd01 valign=bottom | <br /><br /><br /> <big>[[Kainozojs|K<br />A]]<big>
+| rowspan=5 bgcolor=#fafd01 valign=bottom | <br><br><br> <big>[[Kainozojs|K<br>A]]<big>
 | rowspan=5 bgcolor=#fee692 |            [[Kvartars]]  
 | bgcolor=#fffae0 |                       [[Holocens]]
 | bgcolor=#fffae0 | [[Atlantejis]]
@@ -27,7 +27,7 @@
 | bgcolor=#fff7c0 |                        [[Tarantys]]
 | valign=bottom | 0,126* || valign=bottom | -
 | rowspan=4 |
-| align=center rowspan=3 | ''[[Homo sapiens]]''<br />''[[Homme de Néandertal|H. neander-<br />thalensis]]''<br />''[[Homo antecessor|H. antecessor]]''<br />''[[Homo erectus|H. erectus]]''
+| align=center rowspan=3 | ''[[Homo sapiens]]''<br>''[[Homme de Néandertal|H. neander-<br>thalensis]]''<br>''[[Homo antecessor|H. antecessor]]''<br>''[[Homo erectus|H. erectus]]''
 |----- align=center
 | bgcolor=#fff7c0 |                        [[Ionys]]
 | valign=bottom |0,781** || valign=bottom | -
@@ -37,9 +37,9 @@
 |----- align=center
 | bgcolor=#fff7c0 |                       [[Gelasys]]
 | valign=bottom |2,588* || valign=bottom | -
-| ''[[Homo ergaster|H. ergaster]]''<br />''[[Homo habilis|H. habilis]]''
+| ''[[Homo ergaster|H. ergaster]]''<br>''[[Homo habilis|H. habilis]]''
 |----- align=center
-| rowspan=17 bgcolor=#ffff00 valign=top |<big>[[Kainozojs|I<br />N<br />O<br />Z<br />O<br />J<br />S]]
+| rowspan=17 bgcolor=#ffff00 valign=top |<big>[[Kainozojs|I<br>N<br>O<br>Z<br>O<br>J<br>S]]
 | rowspan=8 bgcolor=#ffe800 |            [[Neogens]]
 | rowspan=2 bgcolor=#ffff99 |             [[Pliocens]]
 | bgcolor=#ffff99 |                       [[Piacentys]]
@@ -109,7 +109,7 @@
 | 65,5* || 0,3
 |----- align=center
 | rowspan=30 bgcolor=#67c5ca | <big>
-[[Mezozojs|M<br />E<br />Z<br />O<br />Z<br />O<br />J<br />S]]
+[[Mezozojs|M<br>E<br>Z<br>O<br>Z<br>O<br>J<br>S]]
 | rowspan=12 bgcolor=#c5e547 |            [[Kreids (periods)|Kreids]]
 | rowspan=6 bgcolor=#e2f398 |             [[Vālais kreids|Vālais]]
 | bgcolor=#e2f398 |                       [[Mastrihtys]]
@@ -192,7 +192,7 @@
 | bgcolor=#00a0c6 |                       [[Hetangys]]
 | 199,6** || 0,6
 |----- align=center
-| rowspan=7 bgcolor=#6b017d |             <font color=#ffffff>[[Triass]]</font><br />
+| rowspan=7 bgcolor=#6b017d |             <font color=#ffffff>[[Triass]]</font><br>
 | rowspan=3 bgcolor=#e4c5e1 |             [[Vālais triass|Vālais]]
 | bgcolor=#e4c5e1 |                       [[Retys]]
 | 203,6 || 1,5
@@ -220,7 +220,7 @@
 | 251,0* || 0,4
 |----- align=center
 | rowspan=48 bgcolor=#99c08d |
-<big>[[Paleozojs|P<br />A<br />L<br />E<br />O<br />Z<br />O<br />J<br />S]]
+<big>[[Paleozojs|P<br>A<br>L<br>E<br>O<br>Z<br>O<br>J<br>S]]
 | rowspan=9 bgcolor=#f04028 |             [[Perms]]
 | rowspan=2 bgcolor=#fa9aa3 |             [[Lopingys]]
 | bgcolor=#fa9aa3 |                       [[Čangsingys]]
@@ -417,7 +417,7 @@
 | rowspan=2 | 
 |----- align=center
 | rowspan=11 bgcolor=#FF9936 | <font size=+1>
-[[Proterozojs|P<br />R<br />O<br />T<br />E<br />R<br />O<br />Z<br />O<br />J<br />S]]</font>
+[[Proterozojs|P<br>R<br>O<br>T<br>E<br>R<br>O<br>Z<br>O<br>J<br>S]]</font>
 | rowspan=4 bgcolor=#feb343 | <big>[[Neoproterozojs]]</big>
 | colspan=1 bgcolor=#feb343 |             [[Ediakars]]
 | colspan=2 bgcolor=#feb343 |
@@ -484,12 +484,12 @@
 | colspan=1 valign=bottom | -
 |----- align=center
 | rowspan=4 bgcolor=#99adac | <font size=+1>
-[[Arhajs|A<br />R<br />H<br />A<br />J<br />S]]</font>
+[[Arhajs|A<br>R<br>H<br>A<br>J<br>S]]</font>
 | bgcolor=#cbcdc8 colspan=2 |<big>[[Neoarhajs]]</big>
 | colspan=2 bgcolor=#cbcdc8 | &nbsp;
 | colspan=1 valign=bottom | 2800
 | colspan=1 valign=bottom | -
-| rowspan=4 | [[Bakterejis]]&nbsp;; [[fotosiņteze]] ([[Cianbakterejis]])&nbsp;;<br />metana pagaisšona CH<sub>4</sub>&nbsp;;<br />
+| rowspan=4 | [[Bakterejis]]&nbsp;; [[fotosiņteze]] ([[Cianbakterejis]])&nbsp;;<br>metana pagaisšona CH<sub>4</sub>&nbsp;;<br>
 |----- align=center
 | bgcolor=#b2b5af colspan=2 | <big>[[Mezoarhajs]]</big>
 | colspan=2 bgcolor=#b2b5af | &nbsp;
@@ -508,7 +508,7 @@
 | colspan=1 valign=bottom | -
 |----- align=center
 | bgcolor=#808890 | <font size=+1>
-[[Aydejs|A<br />Y<br />D<br />E<br />J<br />S]]</font>
+[[Aydejs|A<br>Y<br>D<br>E<br>J<br>S]]</font>
 | bgcolor=#808890 colspan=4 | &nbsp;
 | colspan=1 valign=bottom | 4600
 | colspan=1 valign=bottom | -
