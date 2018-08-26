@@ -4,8 +4,10 @@
 |atvaiga_aprakstejums   = Kandovys ļutaru bazneica
 |gerba_atvaigs          = Kandava gerb.png
 |gerba_pasauka          = Kandovys gerbs
-|karūga_atvaigs         = 
-|karūga_pasauka         = 
+|gerba_plotums          = 80px
+|karūga_atvaigs         = Kandavas pilsētas karogs.png
+|karūga_pasauka         = Kandovys karūgs
+|karūga_plotums         = 160px
 |koordinatu_zemislopa   = Latveja
 | latd = 57| latm = 02| lats = 15| latNS =N 
 | longd = 22| longm = 46| longs = 30| longEW =E
