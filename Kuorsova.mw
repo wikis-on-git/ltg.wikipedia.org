@@ -4,8 +4,10 @@
 | atvaiga_aprakstejums   = Ustoba Kuorsovā
 | gerba_atvaigs          = Karsava gerb.png
 | gerba_pasauka          = Kuorsovys gerbs
+| gerba_plotums          = 80px
 | karūga_atvaigs         = 
-| karūga_pasauka         = 
+| karūga_pasauka         = Kuorsovys karūgs
+| karūga_plotums         = 160px
 | koordinatu_zemislopa   = Latveja
 | pushpin_label_position = left
 | latd  = 56 | latm  = 47 | lats  = 02 | latNS  = N
