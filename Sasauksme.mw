@@ -1,4 +1,4 @@
-'''Sasauksme''' (anglīšu: ''handshaking''; krīvu: ''подтверждение связи''; latvīšu: ''rokspiešana'') — process, kurymā divejis ītaisis apstyprynoj, ka iz vyds jūs irā atsaroduse saita i suokusēs zynuošonuos: nūstateits ASCII liters voi puortraukuma signals/ aizprasejuma magistralis signals procesoram kūpā ar ''Control [[Bus]]''. 
+'''Sasauksme''' (anglīšu: ''handshaking''; krīvu: ''подтверждение связи''; latvīšu: ''rokspiešana'') — process, kurymā divejis ītaisis apstyprynoj, ka iz vyds jūs irā atsaroduse saita i suokusēs zynuošonuos: nūstateits ASCII liters voi puortraukuma signals/ aizprasejuma magistralis signals procesoram kūpā ar ''Control Bus''. 
 
 Sasauksme suocās, kod vīna ītaise nūsyutejuse ūtrai ītaisei zini, ka grib sataiseit zynuošonuos kanalu. Tūlaik obadivejis ītaisis tei tai nūsyuta nazcik ziņu, kurys ļaun jom dasarunuot ap zynuošonuos protokolu. Kab nūtyktu datu puorlaide, pyrma tuo vajadzeiga obadiveju ītaišu (datu syuteituojis i datu dabuojiejis) sasauksme.
 
