@@ -1,4 +1,4 @@
-Sovā suoku versejā '''Zipfa lykums''' soka, ka dabeigys cylvāka volūdys tekstu korpusā, vuorda relativais bīžums ir apgrīzti proporcionals juo kuortas numuram vuordu bīžuma sarokstā. Pīmāram, vysbīžuok lītuotais vuords tekstūs pasaruodēs divtik bīži nakai ūtrais bīžuokais, a ūtrais bīžuokais pasaruoda divtik bīži nakai caturtais, i.t.t. Myusu dīnuos tū sapratīni lītoj kab apzeimuotu vasalu saimi ar varbyuteibu sadalejumim. Itū empiriskuo lykumu pyrmū reizi lika prīškā Harvarda lingvists Zipfs ([[:en:George Kingsley Zipf|Zipf]]).
+Sovā suoku versejā '''Zipfa lykums''' soka, ka dabeigys [[Cylvāks|cylvāka]] volūdys tekstu korpusā, vuorda relativais bīžums ir apgrīzti proporcionals juo kuortas numuram vuordu bīžuma sarokstā. Pīmāram, vysbīžuok lītuotais vuords tekstūs pasaruodēs divtik bīži nakai ūtrais bīžuokais, a ūtrais bīžuokais pasaruoda divtik bīži nakai caturtais, i.t.t. Myusu dīnuos tū sapratīni lītoj kab apzeimuotu vasalu saimi ar varbyuteibu sadalejumim. Itū empiriskuo lykumu pyrmū reizi lika prīškā Harvarda lingvists Zipfs ([[:en:George Kingsley Zipf|Zipf]]).
 
 Pīvadumam, [[:en:Brown Corpus|Brauna korpusā]] ar anglīšu tekstim, "the" ir bīžuok aptiktais vuords, i jis vīns pats sastata 7% nu vysim vuordim tymūs tekstūs (69971 "the" eksemplari iz drupeit vairuok nakai 1 miļjona vuordu kūpskaita). Lobi atbiļst Zipf'a lykumam ūtrys bīžuokais vuords "of", kurs sastata 3.5% nu vysu korpusa vuordu (36411 eksemplari), a tuoļuok īt "and" (28852). Vīn 135 bīžuokī vuordi jau ir vairuok nakai puse nu vysim Brauna korpusā atrūnamajim vuordim. Zipfa lykums ir ceisti empirisks a na teoretisks. Zipfa sadalejumus nūvāroj i puors cytuos vītuos. Cālūni tam nava vēļ piļneigi saprasti. 
 
@@ -7,10 +7,9 @@ Kab pamateitu skaitļu aiļa atbiļsteibu Zipf'a lykumam, tū attāloj uz 2 koor
 == Latgaļu tekstu korpusi ==
 Latgaļu tekstu elektroniska apstruode vēļ dora vīn pyrmūs sūļus. Bet ari ite byutu svareigi zynuot bīžuok lītojamūs vuordus; zynuot cik lela dale nu tekstu korpusa ir tai puorkluota. Ka kurs zyn, kur aptikt taidus latgaļu tekstu korpusus (vālams tymā pošā pareizraksteibā) dūdit zini.
 
-Varbyut tys sadalejums juosauc par ''Cipfa'' (na ''Zipfa'') sadalejumu, kai tys dareits krīvu volūdā? Pavuorde varātu byut vuocu, a jis dzeivova Amerikā ir juo vuords byutu skaitoms angliski.
+Varbyut tys sadalejums juosauc par ''Cipfa'' (na ''Zipfa'') sadalejumu, kai tys dareits krīvu volūdā? Pavuorde varātu byut vuocu, a jis dzeivova [[Amerikys Saškierstuos Vaļsteibys|Amerikā]] ir juo vuords byutu skaitoms angliski.
 
 == Programys pīmārs ==
-
 Lyuk Javys programa, kas vīnam argumentam izvoda tabeleiti ar Zipfa sadalejumu n lelumu vydā:
 
   public class Zipf {
