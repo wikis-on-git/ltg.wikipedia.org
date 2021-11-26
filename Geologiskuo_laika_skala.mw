@@ -12,7 +12,7 @@
 | [[Milijons godu|Milij.g.]] ||±
 |----- align=center
 | rowspan=101 bgcolor=#9ad9e5 |
-<font size=+1> [[Fanerozojs|F<br>A<br>N<br>E<br>R<br>O<br>Z<br>O<br>J<br>S]]</font>
+<span style="font-size:large;"> [[Fanerozojs|F<br>A<br>N<br>E<br>R<br>O<br>Z<br>O<br>J<br>S]]</span>
 |----- align=center
 | rowspan=5 bgcolor=#fafd01 valign=bottom | <br><br><br> <big>[[Kainozojs|K<br>A]]<big>
 | rowspan=5 bgcolor=#fee692 |            [[Kvartars]]  
@@ -192,7 +192,7 @@
 | bgcolor=#00a0c6 |                       [[Hetangys]]
 | 199,6** || 0,6
 |----- align=center
-| rowspan=7 bgcolor=#6b017d |             <font color=#ffffff>[[Triass]]</font><br>
+| rowspan=7 bgcolor=#6b017d |             [[Triass|<span style="color:#ffffff;">Triass</span>]]<br />
 | rowspan=3 bgcolor=#e4c5e1 |             [[Vālais triass|Vālais]]
 | bgcolor=#e4c5e1 |                       [[Retys]]
 | 203,6 || 1,5
@@ -373,7 +373,7 @@
 | bgcolor=#018055 |                       [[Tremadokys]]
 | 488,3* || 1,7
 |----- align=center
-| rowspan=10 bgcolor=#408521| <font color=white>[[Kembrejs]]</font>
+| rowspan=10 bgcolor=#408521| [[Kembrejs|<span style="color:white;">Kembrejs</span>]]
 | rowspan=3 bgcolor=#d7d3aa |             [[Furongejis]]
 | bgcolor=#d7d3aa |                       [[10 trūps]]
 | 492,0 || -
@@ -416,8 +416,8 @@
 | rowspan=2 | 
 | rowspan=2 | 
 |----- align=center
-| rowspan=11 bgcolor=#FF9936 | <font size=+1>
-[[Proterozojs|P<br>R<br>O<br>T<br>E<br>R<br>O<br>Z<br>O<br>J<br>S]]</font>
+| rowspan=11 bgcolor=#FF9936 | <span style="font-size:large;">
+[[Proterozojs|P<br>R<br>O<br>T<br>E<br>R<br>O<br>Z<br>O<br>J<br>S]]</span>
 | rowspan=4 bgcolor=#feb343 | <big>[[Neoproterozojs]]</big>
 | colspan=1 bgcolor=#feb343 |             [[Ediakars]]
 | colspan=2 bgcolor=#feb343 |
@@ -483,8 +483,8 @@
 | colspan=1 valign=bottom | 2500*
 | colspan=1 valign=bottom | -
 |----- align=center
-| rowspan=4 bgcolor=#99adac | <font size=+1>
-[[Arhajs|A<br>R<br>H<br>A<br>J<br>S]]</font>
+| rowspan=4 bgcolor=#99adac | <span style="font-size:large;">
+[[Arhajs|A<br>R<br>H<br>A<br>J<br>S]]</span>
 | bgcolor=#cbcdc8 colspan=2 |<big>[[Neoarhajs]]</big>
 | colspan=2 bgcolor=#cbcdc8 | &nbsp;
 | colspan=1 valign=bottom | 2800
@@ -507,8 +507,8 @@
 | colspan=1 valign=bottom | 4000
 | colspan=1 valign=bottom | -
 |----- align=center
-| bgcolor=#808890 | <font size=+1>
-[[Aydejs|A<br>Y<br>D<br>E<br>J<br>S]]</font>
+| bgcolor=#808890 | <span style="font-size:large;">
+[[Aydejs|A<br>Y<br>D<br>E<br>J<br>S]]</span>
 | bgcolor=#808890 colspan=4 | &nbsp;
 | colspan=1 valign=bottom | 4600
 | colspan=1 valign=bottom | -
